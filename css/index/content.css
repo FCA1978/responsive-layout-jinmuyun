@@ -1,0 +1,1112 @@
+.content {
+    /* 内容区 */
+    min-height: 1928px;
+    width: 1440px;
+    margin-top: 100px;
+    padding-left: 240px;
+}
+
+.content-top {
+    /* 内容区头部 */
+    height: 593px;
+    width: 1480px;
+}
+
+.top>a>img {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+.content-top-title {
+    /* 产品中心的标题 */
+    width: 432px;
+    height: 83px;
+    margin-left: 504px;
+}
+
+.view-more>a:hover {
+    text-decoration: none;
+}
+
+.view-more>a {
+    display: block;
+}
+
+.slider1>a:hover {
+    text-decoration: none;
+}
+
+.slider2>a:hover {
+    text-decoration: none;
+}
+
+.slider3>a:hover {
+    text-decoration: none;
+}
+
+.slider4>a:hover {
+    text-decoration: none;
+}
+
+.btn1 {
+    /* 内容区头部卡片按钮一 */
+    width: 700px;
+    height: 200px;
+    background-color: #ffffff;
+    box-shadow: -1px -1px 11px 1px rgba(39, 55, 72, 0.08);
+    border-radius: 10px 0px 0px 10px;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.btn2 {
+    /* 内容区头部卡片按钮一 */
+    width: 700px;
+    height: 200px;
+    background-color: #ffffff;
+    box-shadow: -1px -1px 11px 1px rgba(39, 55, 72, 0.08);
+    border-radius: 10px 0px 0px 10px;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.btn3 {
+    /* 内容区头部卡片按钮一 */
+    width: 700px;
+    height: 200px;
+    background-color: #ffffff;
+    box-shadow: -1px -1px 11px 1px rgba(39, 55, 72, 0.08);
+    border-radius: 10px 0px 0px 10px;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.btn4 {
+    /* 内容区头部卡片按钮一 */
+    width: 700px;
+    height: 200px;
+    background-color: #ffffff;
+    box-shadow: -1px -1px 11px 1px rgba(39, 55, 72, 0.08);
+    border-radius: 10px 0px 0px 10px;
+    float: left;
+    margin-bottom: 40px;
+}
+
+.btn-pic {
+    /* 卡片按钮的图片 */
+    width: 240px;
+    height: 200px;
+    float: left;
+}
+
+.btn-right {
+    /* 卡片按钮的右边 */
+    float: left;
+    width: 374px;
+    margin-left: 32px;
+}
+
+.btn-title>p {
+    /* 按钮标题的字体 */
+    font-family: MicrosoftYaHei;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #273748;
+}
+
+.btn-title {
+    /* 产品中心下面的按钮标题的框的样式 */
+    padding-top: 32px;
+}
+
+.btn-content>p {
+    /* 标题内容的字体 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 24px;
+    letter-spacing: 1px;
+    color: #888888;
+}
+
+.view-more {
+    /* 查看更多的字体样式 */
+    font-family: ArialMT;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #45c387;
+    margin-top: 21px;
+}
+
+.content-top-title-txt>p {
+    /* 产品中心的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #273748;
+}
+
+.content-top-title-intro>p {
+    /* 产品中心下面的注释 */
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #999999;
+}
+
+.content-top-title-txt {
+    /* 内容区顶部标题的字的样式 */
+    text-align: center;
+}
+
+.content-line {
+    /* 内容区顶部的标题下划线 */
+    text-align: center;
+}
+
+.row {
+    /* 内容区顶部卡片按钮之间的间距 */
+    margin-top: 50px;
+}
+
+.slide-box {
+    /* 包裹整个轮播图的框 */
+    margin-top: 50px;
+    width: 1440px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.slider1-txt>p {
+    /* 轮播图卡片1上的内容的样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 1px;
+    color: #ffffff;
+}
+
+.news>p {
+    /* 行内新闻的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #d1df69;
+}
+
+.news2>p {
+    /* 行内新闻的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #45c387;
+}
+
+.news3>p {
+    /* 行内新闻的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #45c387;
+}
+
+.news4>p {
+    /* 行内新闻的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #45c387;
+}
+
+.data>p {
+    /* 日期的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.data2>p {
+    /* 日期的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #999999;
+}
+
+.data3>p {
+    /* 日期的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #999999;
+}
+
+.data4>p {
+    /* 日期的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #999999;
+}
+
+.slider1 {
+    /* 轮播图一 */
+    background: url(../../img/index/know-pic.png) no-repeat;
+    flex-grow: 2;
+    height: 356px;
+}
+
+.slider1-txt {
+    /* 轮播图一上的文字框的样式 */
+    width: 528px;
+    height: 48px;
+    margin-top: 274px;
+    margin-left: 33px;
+    float: left;
+}
+
+.news {
+    /* 行内新闻的框的样式 */
+    width: 56px;
+    height: 12px;
+    margin-left: 390px;
+    float: left;
+    margin-top: -14px;
+}
+
+.news2 {
+    /* 行内新闻的框的样式 */
+    width: 56px;
+    height: 12px;
+    float: left;
+    margin-top: 180px;
+    margin-left: 24px;
+}
+
+.news3 {
+    /* 行内新闻的框的样式 */
+    width: 56px;
+    height: 12px;
+    float: left;
+    margin-top: 150px;
+    margin-left: 24px;
+}
+
+.news4 {
+    /* 行内新闻的框的样式 */
+    width: 56px;
+    height: 12px;
+    float: left;
+    margin-top: 180px;
+    margin-left: 24px;
+}
+
+.data {
+    /* 日期的框的样式 */
+    width: 76px;
+    height: 11px;
+    margin-right: 28px;
+    float: right;
+    margin-top: -14px;
+}
+
+.data2 {
+    /* 日期的框的样式 */
+    width: 76px;
+    height: 11px;
+    float: right;
+    margin-top: 180px;
+    margin-right: 25px;
+}
+
+.data3 {
+    /* 日期的框的样式 */
+    width: 76px;
+    height: 11px;
+    float: right;
+    margin-top: 150px;
+    margin-right: 25px;
+}
+
+.data4 {
+    /* 日期的框的样式 */
+    width: 76px;
+    height: 11px;
+    float: right;
+    margin-top: 180px;
+    margin-right: 25px;
+}
+
+.slider2 {
+    /* 轮播图二 */
+    height: 356px;
+    background-color: #ecf9f3;
+    border-radius: 8px;
+    flex-grow: 1;
+}
+
+.slider3 {
+    /* 轮播图三 */
+    flex-grow: 1;
+    height: 356px;
+    background-color: #dbf6e9;
+    border-radius: 8px;
+}
+
+.slider4 {
+    /* 轮播图四 */
+    height: 356px;
+    background-color: #ecf9f3;
+    border-radius: 8px;
+    flex-grow: 1;
+}
+
+.slider2-txt {
+    /* 轮播图2上的文字 */
+    width: 240px;
+    height: 77px;
+    margin-left: 24px;
+    margin-top: 39px;
+}
+
+.slider3-txt {
+    /* 轮播图3上的文字 */
+    width: 241px;
+    height: 107px;
+    margin-left: 24px;
+    margin-top: 39px;
+}
+
+.slider4-txt {
+    /* 轮播图4上的文字 */
+    width: 241px;
+    height: 77px;
+    margin-left: 24px;
+    margin-top: 39px;
+}
+
+.content-middle {
+    /* 包裹内容区中部的框 */
+    margin-top: 80px;
+}
+
+.content-middle-title-txt>p {
+    /* 最新动态的样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #273748;
+}
+
+.content-middle-title-txt {
+    margin-left: 660px;
+}
+
+.content-middle-title-pic {
+    /* 最新动态下划线 */
+    margin-left: 710px;
+    margin-top: 6px;
+}
+
+.content-middle-title-intro {
+    margin-left: 440px;
+    margin-top: 4px;
+}
+
+.slide-change {
+    /* 内容区头部按钮的整体样式 */
+    margin-left: 530px;
+    margin-top: 42px;
+}
+
+.content-middle-title-intro>p {
+    /* 最新动态的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #999999;
+}
+
+.change1 {
+    /*  */
+    width: 100px;
+    height: 40px;
+    background-color: #45c387;
+    border-radius: 6px;
+    float: left;
+    text-align: center;
+}
+
+.change1>a {
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 0px;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+}
+
+.change2 {
+    /*  */
+    width: 100px;
+    height: 40px;
+    background-color: #ecf9f3;
+    border-radius: 6px;
+    float: left;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.change2>a {
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 0px;
+    color: #45c387;
+    display: block;
+    text-decoration: none;
+}
+
+.change3 {
+    /*  */
+    width: 100px;
+    height: 40px;
+    background-color: #ecf9f3;
+    border-radius: 6px;
+    float: left;
+    margin-left: 40px;
+    text-align: center;
+}
+
+.change3>a {
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 0px;
+    color: #45c387;
+    display: block;
+    text-decoration: none;
+}
+
+.slide-change>.change1:hover {
+    background-color: #45c387;
+}
+
+.slide-change>.change2:hover {
+    background-color: #45c387;
+}
+
+.slide-change>.change3:hover {
+    background-color: #45c387;
+}
+
+.slide-change>.change3>a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.slide-change>.change2>a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.slide-change>.change1>a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.right-title {
+    /* banner申报类网站的框的样式 */
+    margin-top: 68px;
+}
+
+.code-txt>p {
+    /* 联系方式的字体 */
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 2px;
+    color: #777777;
+}
+
+.scan-txt>p {
+    /* 扫码添加微信的字体 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #999999;
+}
+
+.scan-txt {
+    text-align: center;
+}
+
+.code-img {
+    /* 联系方式的左边的icon图标 */
+    float: left;
+    margin-top: 6px;
+}
+
+.code-txt {
+    /* 联系方式右边的内容 */
+    float: left;
+    margin-left: 15px;
+}
+
+.scan-code {
+    /* 包裹整个联系方式背景图的框 */
+    width: 1000px;
+    height: 840px;
+    top: 2670px;
+    position: absolute;
+    z-index: 1;
+    background: url(../../img/index/map-bg.png) no-repeat;
+}
+
+.information {
+    /* 包裹联系方式的框 */
+    width: 410px;
+    height: 410px;
+    margin-left: 320px;
+    margin-top: 348px;
+}
+
+.location {
+    /* 地址 */
+    width: 407px;
+    height: 50px;
+}
+
+.telephone {
+    /* 电话 */
+    width: 386px;
+    height: 50px;
+}
+
+.dayin {
+    /* 打印 */
+    width: 386px;
+    height: 50px;
+}
+
+.email {
+    /* 邮箱*/
+    width: 386px;
+    height: 50px;
+}
+
+.scan1 {
+    /*二维码一 */
+    width: 138px;
+    height: 166px;
+    float: left;
+    margin-top: 20px;
+}
+
+.scan2 {
+    /* 二维码二 */
+    width: 138px;
+    height: 166px;
+    float: left;
+    margin-left: 24px;
+    margin-top: 20px;
+}
+
+.more>a {
+    /* more按钮外的a */
+    display: block;
+    width: 160px;
+    height: 50px;
+}
+
+.more:hover {
+    /* 鼠标移入按钮时 */
+    background-color: #45c387;
+    border: solid 1px #fff;
+}
+
+.more:hover>a>.more-txt>p {
+    /* 鼠标移入时，字体的变化 */
+    color: #fff;
+}
+
+.more:hover>a>.more-pic {
+    background: url(../../img/index/white-arrow.png) no-repeat;
+}
+
+.btn-right>.view-more>a>p {
+    font-family: ArialMT;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #45c387;
+    text-decoration: none;
+}
+
+.content-top>.row {
+    /* 将bootstrap本身的左右间距去除 */
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.btn-line {
+    /* 内容区头部按钮标题下面的下划线 */
+    margin-top: -7px;
+}
+
+.btn-content {
+    /* 按钮内容 */
+    margin-top: 2px;
+}
+
+.slider2-txt>p {
+    /* 最新动态轮播图下面内容的文字样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: 550;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 1px;
+    color: #444444;
+    text-decoration: none;
+}
+
+.slider3-txt>p {
+    /* 最新动态轮播图下面内容的文字样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: 550;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 1px;
+    color: #444444;
+    text-decoration: none;
+}
+
+.slider4-txt>p {
+    /* 最新动态轮播图下面内容的文字样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 18px;
+    font-weight: 550;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 1px;
+    color: #444444;
+    text-decoration: none;
+}
+
+.another-more {
+    /* 另一个more框的样式 */
+    width: 160px;
+    height: 50px;
+    background-color: #ecf9f3;
+    border-radius: 8px;
+    margin-top: 80px;
+    margin-left: 641px;
+}
+
+.another-more-txt>p {
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #45c387;
+}
+
+.another-more-arrow {
+    /* more右边的箭头 */
+    width: 26px;
+    height: 6px;
+    float: left;
+    margin-top: 19px;
+    margin-left: 11px;
+    background: url(../../img/index/arrow.png) no-repeat;
+}
+
+.another-more-txt {
+    /* more左边的文字 */
+    float: left;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+
+.another-more>a {
+    display: block;
+    width: 160px;
+    height: 50px;
+}
+
+.another-more:hover {
+    /* 鼠标移入按钮时 */
+    background-color: #45c387;
+    border: solid 1px #fff;
+}
+
+.another-more:hover>a>.another-more-txt>p {
+    /* 鼠标移入时，字体的变化 */
+    color: #fff;
+}
+
+.another-more:hover>a>.another-more-arrow {
+    background: url(../../img/index/white-arrow.png) no-repeat;
+}
+
+.slider1>a {
+    display: block;
+    width: 592px;
+    height: 356px;
+}
+
+.slider2>a {
+    width: 283px;
+    height: 356px;
+    display: block;
+}
+
+.slider3>a {
+    width: 283px;
+    height: 356px;
+    display: block;
+}
+
+.slider4>a {
+    width: 283px;
+    height: 356px;
+    display: block;
+}
+
+
+/* 以下是内容区，点击不同的块的时候其他文字样式的变化 */
+
+.slider1-txt .content-onclick-txt {
+    /* 点击切换时字体的变换 */
+    color: #ffffff;
+    font-weight: 100;
+}
+
+.slider2-txt .content-onclick-txt2 {
+    /* 点击切换时字体的变换 */
+    color: #ffffff;
+    font-weight: 100;
+}
+
+.slider3-txt .content-onclick-txt3 {
+    /* 点击切换时字体的变换 */
+    color: #ffffff;
+    font-weight: 100;
+}
+
+.slider4-txt .content-onclick-txt4 {
+    /* 点击切换时字体的变换 */
+    color: #ffffff;
+    font-weight: 100;
+}
+
+.content-onclick-border {
+    /* 点击切换图片时，字体高宽的变换 */
+    width: 240px;
+    height: 77px;
+    margin-top: 40px;
+    margin-left: 24px;
+}
+
+.content-onclick-border2 {
+    /* 点击切换图片时，字体高宽的变换 */
+    width: 240px;
+    height: 77px;
+    margin-top: 40px;
+    margin-left: 24px;
+}
+
+.content-onclick-border3 {
+    /* 点击切换图片时，字体高宽的变换 */
+    width: 240px;
+    height: 77px;
+    margin-top: 40px;
+    margin-left: 24px;
+}
+
+.content-onclick-borde4r {
+    /* 点击切换图片时，字体高宽的变换 */
+    width: 240px;
+    height: 77px;
+    margin-top: 40px;
+    margin-left: 24px;
+}
+
+.news-onclick-txt {
+    color: #45c387;
+}
+
+.news-onclick {
+    margin-top: 203px;
+    margin-left: -239px;
+}
+
+.news-onclick-txt2 {
+    color: #45c387;
+}
+
+.news-onclick2 {
+    margin-top: 199px;
+    margin-left: 35px;
+}
+
+.news-onclick-txt3 {
+    color: #45c387;
+}
+
+.news-onclick3 {
+    margin-top: 199px;
+    margin-left: 35px;
+}
+
+.news-onclick-txt4 {
+    color: #45c387;
+}
+
+.news-onclick4 {
+    margin-top: 199px;
+    margin-left: 35px;
+}
+
+.data-onclick {
+    float: left;
+    margin-left: -96px;
+    margin-top: 202px;
+}
+
+.data-onclick-txt {
+    color: #999999;
+}
+
+.data-onclick2 {
+    float: left;
+    margin-left: 76px;
+    margin-top: 198px;
+}
+
+.data-onclick-txt2 {
+    color: #999999;
+}
+
+.data-onclick3 {
+    float: left;
+    margin-left: 76px;
+    margin-top: 198px;
+}
+
+.data-onclick-txt3 {
+    color: #999999;
+}
+
+.data-onclick4 {
+    float: left;
+    margin-left: 76px;
+    margin-top: 198px;
+}
+
+.data-onclick-txt4 {
+    color: #999999;
+}
+
+
+/* 以下是内容区，点击块时本身文字样式的变化 */
+
+.content-change-border {
+    width: 528px;
+    height: 48px;
+    margin-left: 23px;
+    margin-top: 286px;
+}
+
+.content-change-txt {
+    color: #ffffff !important;
+    font-weight: normal !important;
+}
+
+.news-change-border {
+    width: 56px;
+    height: 12px;
+    float: left;
+    margin-top: -11px;
+    margin-left: 380px;
+}
+
+.news-change-txt {
+    color: #d1df69;
+}
+
+.data-change-border {
+    width: 76px;
+    height: 11px;
+    float: left;
+    margin-top: -11px;
+    margin-left: 477px;
+}
+
+.data-change-txt {
+    color: #ffffff;
+}
+
+.inhead-line>.group>.usermessage {
+    width: 580px;
+}
+
+.qq>a:hover {
+    background: url(../../img/index/yellow-QQ.png) no-repeat;
+}
+
+.slider2>a:focus {
+    text-decoration: none;
+}
+
+.slider3S>a:focus {
+    text-decoration: none;
+}
+
+.slider4>a:focus {
+    text-decoration: none;
+}
+
+.group input[type="text "]::placeholder {
+    color: #aae6c9;
+}
+
+.change1>a:focus {
+    text-decoration: none;
+    color: #fff;
+    background-color: #45c387;
+    border-radius: 6px;
+}
+
+.change2>a:focus {
+    text-decoration: none;
+    color: #fff;
+    background-color: #45c387;
+    border-radius: 6px;
+}
+
+.change3>a:focus {
+    text-decoration: none;
+    color: #fff;
+    background-color: #45c387;
+    border-radius: 6px;
+}
+
+.hd>ul>.on>a {
+    background: url(../../img/index/green-line.png) no-repeat;
+    margin-top: 15px;
+}
+
+.hd>ul>.on>a>p {
+    display: none;
+}
+
+.bd>ul>li>img {
+    width: 100%;
+    height: 940px;
+}
+
+
+/* .btn1>a {
+    display: block;
+    width: 700px;
+    height: 200px;
+} */
+
+
+/* .btn2>a {
+    display: block;
+    width: 700px;
+    height: 200px;
+}
+
+.btn3>a {
+    display: block;
+    width: 700px;
+    height: 200px;
+}
+
+.btn4>a {
+    display: block;
+    width: 700px;
+    height: 200px;
+} */
+
+.top {
+    width: 40px;
+    height: 40px;
+    background-color: #ecf9f3;
+    box-shadow: -1px -1px 3px 0px rgb(18 72 46 / 12%);
+    border-radius: 0px;
+    position: absolute;
+    bottom: 134px;
+    right: 43px;
+    z-index: 20;
+}

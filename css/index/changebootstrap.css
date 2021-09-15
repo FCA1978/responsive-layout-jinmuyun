@@ -1,0 +1,2991 @@
+@media (min-width: 320px) and (max-width:374px) {
+    .slider1 {
+        /* 轮播图一 */
+        background: url(../../img/index/know-pic.png) no-repeat;
+        height: 221px !important;
+        width: 95% !important;
+        margin-left: 9px;
+    }
+    .bd>ul>li>img {
+        max-height: 802px;
+    }
+    .slidebar {
+        width: 91px;
+    }
+    .sliderbar>ul>li {
+        height: 40px;
+    }
+    .sliderbar>ul {
+        width: 40px;
+    }
+    .slide-box {
+        flex-direction: column;
+    }
+    .penel>.panel-heading {
+        margin-top: 5px;
+    }
+    .btn-right {
+        width: 320px;
+        margin-left: 7px;
+    }
+    .slider2 {
+        /* 轮播图二 */
+        height: 221px !important;
+        width: 95% !important;
+        margin-left: 9px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+    }
+    .mapbaidu {
+        top: 961px !important;
+    }
+    .header {
+        height: 802px;
+    }
+    .slider2-txt {
+        width: 285px;
+        height: 77px;
+        margin-left: 9px;
+        margin-top: 39px;
+    }
+    .hd>ul>li>a {
+        width: 40px;
+        height: 11px;
+    }
+    .hd>ul>li {
+        margin-right: 11px;
+    }
+    .content-onclick-border3 {
+        width: 266px;
+    }
+    .slider4-txt {
+        width: 269px;
+    }
+    .content-change-border {
+        margin-left: 23px !important;
+        margin-top: 126px !important;
+    }
+    .news-change-border {
+        margin-left: -152px !important;
+        padding-top: 12px;
+    }
+    .another-more {
+        width: 160px;
+        height: 50px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+        margin-top: 80px;
+        margin-left: 75px;
+    }
+    .data-change-border {
+        position: relative;
+        top: -74px;
+        left: -1px;
+    }
+    .slider2>a {
+        width: 301px;
+        height: 311px;
+        display: block;
+    }
+    .slider1>a {
+        width: 100%;
+        height: 311px;
+        display: block;
+    }
+    .slider3 {
+        /* 轮播图三 */
+        height: 221px !important;
+        background-color: #dbf6e9;
+        border-radius: 8px;
+        /* display: none; */
+        width: 95% !important;
+        margin-left: 9px;
+    }
+    .slider4 {
+        /* 轮播图四 */
+        height: 221px !important;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+        /* display: none; */
+        width: 95% !important;
+        margin-left: 9px;
+    }
+    .hidden-xs {
+        display: none;
+    }
+    .header {
+        /* 头部 */
+        width: 100%;
+        min-height: 802px;
+    }
+    .bd>ul>li>img {
+        width: 100%;
+        height: 802px;
+    }
+    .header>.swiper-container {
+        /* 轮播背景图 */
+        width: 100%;
+        height: 802px;
+        z-index: -99;
+    }
+    .menu {
+        /* 目录 */
+        width: 100%;
+        margin-left: 0px;
+    }
+    .logo>img {
+        /* logo标 */
+        width: 76px;
+        height: 28px;
+    }
+    .nav {
+        /* 目录标 */
+        display: none;
+    }
+    .serach {
+        /* 搜索标 */
+        display: none;
+    }
+    .left-banner {
+        /* banner左侧内容 */
+        width: 298px;
+        height: 315px;
+        margin-top: 0px;
+        margin-left: 20px;
+    }
+    .banner {
+        /* banner栏 */
+        width: 100%;
+        height: 479px;
+        margin-left: 0px;
+    }
+    .left-banner-txt1>p {
+        /* welcome字体 */
+        font-family: ArialMT;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 2px;
+        color: #666666;
+    }
+    .inhead {
+        padding-left: 0px;
+    }
+    .group input[type="text "] {
+        width: 250px;
+        margin-left: 15px;
+    }
+    .left-banner-txt2 {
+        margin-top: 13px;
+    }
+    .left-banner-txt2>p {
+        /* 欢迎来到字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 22px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 2px;
+        color: #45c387;
+    }
+    .left-banner-txt3 {
+        margin-top: 16px;
+        width: 296px;
+    }
+    .left-banner-txt3>p {
+        /* 金暮云字体 */
+        font-family: SourceHanSansCN-Medium;
+        font-size: 31px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 1px;
+        color: #45c387;
+    }
+    .left-banner-txt4>p {
+        /* 专业提供网页设计字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 20px;
+        letter-spacing: 2px;
+        color: #666666;
+    }
+    .left-banner-txt4 {
+        height: 38px;
+        margin-top: -15px;
+    }
+    .left-banner-txt5>p {
+        /* 网站建设的字体 */
+        height: 15px;
+        font-family: SourceHanSansCN-Regular;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 2px;
+        color: #888888;
+    }
+    .left-banner-txt5 {
+        height: 30px;
+        margin-top: 52px;
+    }
+    .left-banner-txt6>p {
+        /* 维护运营的字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 1px;
+        color: #888888;
+    }
+    .left-banner-txt6 {
+        margin-top: -3px;
+    }
+    .right-banner {
+        width: 350px;
+        height: 372px;
+        margin-top: -15px;
+    }
+    .right-pic>img {
+        /* 右banner栏上的图片 */
+        width: 310px;
+        height: 186px;
+    }
+    .right-pic {
+        width: 299px;
+        margin-left: 51px;
+    }
+    .right-title>p {
+        /* 申报网站 */
+        font-family: SourceHanSansCN-Medium;
+        font-size: 22px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 0px;
+        color: #45c387;
+    }
+    .right-title {
+        margin-top: 39px;
+        margin-left: 50px;
+    }
+    .right-content>P {
+        /* 申报网站下的文字 */
+        font-family: MicrosoftYaHei;
+        font-size: 14px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 27px;
+        letter-spacing: 0px;
+        color: #777777;
+    }
+    .right-content {
+        width: 298px;
+        height: 41px;
+        margin-left: 51px;
+    }
+    .hd {
+        width: 299px;
+        height: 55px;
+        background-color: #edf8f3;
+        float: right;
+        position: absolute;
+        top: 747px;
+        left: 0px;
+        margin-left: 22px;
+    }
+    .hd>ul>li>a {
+        font-family: DINPro-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #6db687;
+    }
+    .hd>ul>li {
+        float: left;
+        margin-top: 24px;
+    }
+    .more {
+        width: 80px;
+        height: 25px;
+        border-radius: 8px;
+        border: solid 1px #45c387;
+        margin-top: 60px;
+        display: none;
+    }
+    .more-txt>p {
+        font-family: MicrosoftYaHei;
+        font-size: 8px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #45c387;
+    }
+    .more-pic {
+        float: left;
+        margin-top: 24px;
+        margin-left: 14px;
+        width: 13px;
+        height: 3px;
+    }
+    .more-txt {
+        float: left;
+        margin-left: 10px;
+        margin-top: 3px;
+    }
+    .more-pic {
+        float: left;
+        margin-top: 6px;
+        margin-left: 16px;
+        width: 26px;
+        height: 6px;
+    }
+    .left-banner-txt4 {
+        width: 299px;
+    }
+    .left-banner-txt5 {
+        width: 299px;
+    }
+    .left-banner-txt6 {
+        width: 299px;
+    }
+    .content-top-title {
+        /* 内容区头部的标题 */
+        width: 100%;
+        height: 62px;
+        margin-left: 0px;
+    }
+    .content-top-title-txt>p {
+        /* 产品中心的字体 */
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: 400;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .content-top-title-intro>p {
+        /* 产品中心的介绍 */
+        font-family: MicrosoftYaHei;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #999999;
+        text-align: center;
+    }
+    .content-top {
+        /* 内容区头部 */
+        height: 1743px;
+        width: 100%;
+    }
+    .content {
+        /* 内容区 */
+        min-height: 1928px;
+        width: 100%;
+        margin-top: 58px;
+        padding-left: 0px;
+    }
+    .slide-box {
+        /* 轮播图 */
+        width: 100%;
+    }
+    .slide-change {
+        /* 轮播图上的按钮 */
+        margin-left: 7px;
+    }
+    .change1 {
+        width: 100px;
+        height: 40px;
+        background-color: #45c387;
+        border-radius: 3px;
+        float: left;
+        text-align: center;
+    }
+    .change2 {
+        width: 100px;
+        height: 40px;
+        background-color: #ecf9f3;
+        border-radius: 3px;
+        float: left;
+        margin-left: 5px;
+        text-align: center;
+    }
+    .change3 {
+        width: 100px;
+        height: 40px;
+        background-color: #ecf9f3;
+        border-radius: 3px;
+        float: left;
+        margin-left: 5px;
+        text-align: center;
+    }
+    .change3>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        display: block;
+        text-decoration: none;
+        color: #45c387;
+    }
+    .change2>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        color: #45c387;
+        display: block;
+        text-decoration: none;
+    }
+    .change1>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        color: #ffffff;
+        display: block;
+        text-decoration: none;
+    }
+    .content-middle-title-intro {
+        /* 最新动态的内容 */
+        margin-left: 5px;
+        width: 320px;
+    }
+    .content-middle-title-pic {
+        /* 最新动态的下划线 */
+        margin-left: 153px;
+        margin-top: 16px;
+    }
+    .footerbox {
+        width: 319px;
+        margin-left: -168px;
+    }
+    .code-txt>p {
+        letter-spacing: 0px;
+        font-size: 13px;
+    }
+    .location {
+        width: 302px;
+        height: 50px;
+    }
+    .email {
+        width: 304px;
+    }
+    .dayin {
+        width: 304px;
+    }
+    .telephone {
+        width: 304px;
+    }
+    .content-middle-title-txt {
+        /* 最新动态 */
+        margin-left: 114px;
+    }
+    .content-footer {
+        /* 联系方式 */
+        width: 86%;
+        height: 596px;
+        border-radius: 8px;
+        background: url(../../img/index/chat-bc.png) no-repeat;
+        margin-top: 100px;
+        background-size: 320px 596px;
+        margin-left: 27px;
+    }
+    .chat-us-title {
+        /* 联系我们的字体 */
+        width: 228px;
+        padding-left: 100px;
+        padding-top: 50px;
+    }
+    .chat-us-title>p {
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 3px;
+        color: #ffffff;
+        width: 112px;
+        height: 25px;
+    }
+    .chat-us-intro>p {
+        font-family: MicrosoftYaHei;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #ffffff;
+    }
+    .chat-us-line {
+        /* 联系我们的下划线 */
+        padding-left: 145px;
+        margin-top: 16px;
+    }
+    .chat-us-intro {
+        /* 联系我们的简介 */
+        margin-top: 14px;
+        padding-left: 10px;
+        margin-bottom: 0px;
+    }
+    .inhead-line {
+        /* 整体输入框 */
+        width: 300px;
+        height: 48px;
+    }
+    .group {
+        /* 输入框 */
+        height: 48px;
+        margin-left: 0px;
+        margin-bottom: 5px;
+        margin-top: 30px;
+    }
+    .slidebar {
+        top: 213px;
+    }
+    .group2 input[type="submit "] {
+        margin-left: -17px;
+        width: 100px;
+        height: 48px;
+        background-color: #eef9f4;
+        box-shadow: -1px -1px 9px 1px rgb(45 129 89 / 25%);
+        border-radius: 24px;
+        border: none;
+        text-align: center;
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 30px;
+        letter-spacing: 0px;
+        color: #48b782;
+        margin-top: 60px;
+    }
+    .group2 {
+        padding-left: 103px;
+        margin-top: 114px;
+    }
+    .content-middle-title-txt>p {
+        /* 最新动态的字体样式 */
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: 550;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .content-middle-title-intro>p {
+        /* 最新动态介绍的字体样式 */
+        font-family: MicrosoftYaHei;
+        font-size: 8px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #999999;
+    }
+    .hide-menu {
+        /* 当页面缩小的时候，才会出现的menu图标 */
+        display: block;
+    }
+    .nav {
+        /* 当页面缩小时，目录栏隐藏 */
+        display: none;
+    }
+    .panel-body>ul>li {
+        /* 页面缩小时的目录栏 */
+        float: left;
+        margin-right: 20px;
+    }
+    .panel-body>ul {
+        /* 页面缩小的整体目录 */
+        width: 361px;
+        margin-left: 239px;
+        margin-top: -11px;
+    }
+    .one>li>a {
+        color: #ffffff;
+    }
+    .one>li:first-child>a {
+        color: #45c387;
+    }
+    .logo>a>img {
+        /* ipad端Logo */
+        width: 76px;
+        height: 28px;
+    }
+    .logo {
+        /* ipad端Logo */
+        width: 76px;
+        height: 28px;
+        margin-left: 20px;
+        margin-top: 14px;
+    }
+    .menu>.logo>a {
+        /* ipad端Logo */
+        display: block;
+        width: 76px;
+        height: 28px;
+    }
+    .menu {
+        position: fixed;
+        height: 55px;
+    }
+    .panel-title {
+        /* ipad端菜单栏图标 */
+        margin-right: -5px;
+        margin-top: 11px;
+    }
+    .banner {
+        top: 117px;
+        margin-left: 0px;
+    }
+    .more-txt>p {
+        width: 23px;
+        height: 6px;
+    }
+    .btn1 {
+        height: 395px;
+        margin-bottom: 20px;
+        width: 94.5%;
+        margin-left: 9px;
+    }
+    .btn2 {
+        height: 395px;
+        margin-bottom: 20px;
+        width: 94.5%;
+        margin-left: 9px;
+    }
+    .btn3 {
+        height: 395px;
+        margin-bottom: 20px;
+        width: 94.5%;
+        margin-left: 9px;
+    }
+    .btn4 {
+        height: 395px;
+        margin-bottom: 20px;
+        width: 94.5%;
+        margin-left: 9px;
+    }
+    .btn-pic>img {
+        height: 200px;
+        width: 100%;
+    }
+    .btn-pic {
+        width: 100%;
+    }
+    .btn-title>p {
+        font-family: MicrosoftYaHei;
+        font-size: 18px;
+        font-weight: 500;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .btn-content {
+        margin-top: -2px;
+        width: 282px;
+    }
+    .btn-content>p {
+        line-height: 20px;
+    }
+    .row {
+        margin-top: 32px;
+    }
+    .content-middle {
+        margin-top: 56px;
+    }
+    .slider1-txt {
+        width: 277px;
+        height: 41px;
+    }
+    body {
+        width: 100%;
+    }
+    .inhead-line>.group>.usermessage {
+        width: 248px;
+        height: 120px;
+    }
+    .scan-code {
+        width: 100%;
+        height: 422px;
+        top: 4626px;
+    }
+    .information {
+        width: 95%;
+        height: 410px;
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+    .footer {
+        margin-top: 961px;
+    }
+    .news {
+        margin-left: -276px;
+        margin-top: 173px !important;
+    }
+    .data {
+        margin-left: 212px !important;
+        margin-top: 92px !important;
+    }
+    .news2 {
+        width: 56px;
+        height: 12px;
+        float: left;
+        margin-top: 180px;
+        margin-left: 24px;
+        margin-top: 63px !important;
+        margin-left: 26px !important;
+    }
+    .data2 {
+        width: 76px;
+        height: 11px;
+        float: right;
+        margin-top: 180px;
+        margin-right: 25px;
+        margin-top: 63px !important;
+        margin-left: 118px !important;
+    }
+    .news3 {
+        margin-top: 60px !important;
+        margin-left: 23px !important;
+    }
+    .data3 {
+        margin-top: 60px !important;
+        margin-left: 124px !important;
+    }
+    .slider3>a {
+        width: 304px;
+    }
+    .news4 {
+        margin-top: 58px !important;
+        margin-left: 24px !important;
+    }
+    .slider4>a {
+        width: 305px;
+    }
+    .data4 {
+        margin-left: 124px !important;
+        margin-top: 58px !important;
+    }
+}
+
+@media (min-width: 375px) and (max-width:767px) {
+    .slider1 {
+        /* 轮播图一 */
+        background: url(../../img/index/know-pic.png) no-repeat;
+        height: 221px !important;
+        width: 95% !important;
+        margin-left: 9px;
+    }
+    .bd>ul>li>img {
+        max-height: 802px;
+    }
+    .slidebar {
+        width: 91px;
+    }
+    .sliderbar>ul>li {
+        height: 40px;
+    }
+    .sliderbar>ul {
+        width: 40px;
+    }
+    .slide-box {
+        flex-direction: column;
+    }
+    .penel>.panel-heading {
+        margin-top: 5px;
+    }
+    .btn-right {
+        width: 320px;
+        margin-left: 7px;
+    }
+    .slider2 {
+        /* 轮播图二 */
+        height: 221px !important;
+        width: 95% !important;
+        margin-left: 9px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+    }
+    .mapbaidu {
+        top: 413px !important;
+    }
+    .header {
+        height: 802px;
+    }
+    .slider2-txt {
+        width: 285px;
+        height: 77px;
+        margin-left: 9px;
+        margin-top: 39px;
+    }
+    .hd>ul>li>a {
+        width: 40px;
+        height: 11px;
+    }
+    .hd>ul>li {
+        margin-right: 11px;
+    }
+    .content-onclick-border3 {
+        width: 266px;
+    }
+    .slider4-txt {
+        width: 269px;
+    }
+    .content-change-border {
+        margin-left: 23px !important;
+        margin-top: 126px !important;
+    }
+    .news-change-border {
+        margin-left: -152px !important;
+        padding-top: 12px;
+    }
+    .another-more {
+        width: 160px;
+        height: 50px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+        margin-top: 80px;
+        margin-left: 75px;
+    }
+    .data-change-border {
+        position: relative;
+        top: -74px;
+        left: -1px;
+    }
+    .slider2>a {
+        width: 301px;
+        height: 311px;
+        display: block;
+    }
+    .slider1>a {
+        width: 100%;
+        height: 311px;
+        display: block;
+    }
+    .slider3 {
+        /* 轮播图三 */
+        height: 221px !important;
+        background-color: #dbf6e9;
+        border-radius: 8px;
+        /* display: none; */
+        width: 95% !important;
+        margin-left: 9px;
+    }
+    .slider4 {
+        /* 轮播图四 */
+        height: 221px !important;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+        /* display: none; */
+        width: 95% !important;
+        margin-left: 9px;
+    }
+    .hidden-xs {
+        display: none;
+    }
+    .header {
+        /* 头部 */
+        width: 100%;
+        min-height: 802px;
+    }
+    .bd>ul>li>img {
+        width: 100%;
+        height: 802px;
+    }
+    .header>.swiper-container {
+        /* 轮播背景图 */
+        width: 100%;
+        height: 802px;
+        z-index: -99;
+    }
+    .menu {
+        /* 目录 */
+        width: 100%;
+        margin-left: 0px;
+    }
+    .logo>img {
+        /* logo标 */
+        width: 76px;
+        height: 28px;
+    }
+    .nav {
+        /* 目录标 */
+        display: none;
+    }
+    .serach {
+        /* 搜索标 */
+        display: none;
+    }
+    .left-banner {
+        /* banner左侧内容 */
+        width: 350px;
+        height: 315px;
+        margin-top: 0px;
+        margin-left: 20px;
+    }
+    .banner {
+        /* banner栏 */
+        width: 100%;
+        height: 479px;
+        margin-left: 0px;
+    }
+    .left-banner-txt1>p {
+        /* welcome字体 */
+        font-family: ArialMT;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 2px;
+        color: #666666;
+    }
+    .inhead {
+        padding-left: 0px;
+    }
+    .group input[type="text "] {
+        margin-left: 0px;
+    }
+    .left-banner-txt2 {
+        margin-top: 13px;
+    }
+    .left-banner-txt2>p {
+        /* 欢迎来到字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 22px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 2px;
+        color: #45c387;
+    }
+    .left-banner-txt3 {
+        margin-top: 16px;
+        width: 332px;
+    }
+    .left-banner-txt3>p {
+        /* 金暮云字体 */
+        font-family: SourceHanSansCN-Medium;
+        font-size: 33px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 3px;
+        color: #45c387;
+    }
+    .left-banner-txt4>p {
+        /* 专业提供网页设计字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 20px;
+        letter-spacing: 2px;
+        color: #666666;
+    }
+    .left-banner-txt4 {
+        height: 38px;
+        margin-top: -15px;
+    }
+    .left-banner-txt5>p {
+        /* 网站建设的字体 */
+        width: 336px;
+        height: 15px;
+        font-family: SourceHanSansCN-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 2px;
+        color: #888888;
+    }
+    .left-banner-txt5 {
+        height: 30px;
+        margin-top: 52px;
+    }
+    .left-banner-txt6>p {
+        /* 维护运营的字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 1px;
+        color: #888888;
+    }
+    .left-banner-txt6 {
+        margin-top: -3px;
+    }
+    .right-banner {
+        width: 350px;
+        height: 372px;
+        margin-top: -15px;
+    }
+    .right-pic>img {
+        /* 右banner栏上的图片 */
+        width: 310px;
+        height: 186px;
+    }
+    .right-pic {
+        width: 310px;
+        margin-left: 21px;
+    }
+    .right-title>p {
+        /* 申报网站 */
+        font-family: SourceHanSansCN-Medium;
+        font-size: 22px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 0px;
+        color: #45c387;
+    }
+    .right-title {
+        margin-top: 39px;
+        margin-left: 21px;
+    }
+    .right-content>P {
+        /* 申报网站下的文字 */
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 27px;
+        letter-spacing: 0px;
+        color: #777777;
+    }
+    .right-content {
+        width: 319px;
+        height: 41px;
+        margin-left: 23px;
+    }
+    .hd {
+        width: 321px;
+        height: 55px;
+        background-color: #edf8f3;
+        float: right;
+        position: absolute;
+        top: 747px;
+        left: 0px;
+        margin-left: 54px;
+    }
+    .hd>ul>li>a {
+        font-family: DINPro-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #6db687;
+    }
+    .hd>ul>li {
+        float: left;
+        margin-top: 24px;
+    }
+    .more {
+        width: 80px;
+        height: 25px;
+        border-radius: 8px;
+        border: solid 1px #45c387;
+        margin-top: 60px;
+        display: none;
+    }
+    .more-txt>p {
+        font-family: MicrosoftYaHei;
+        font-size: 8px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #45c387;
+    }
+    .more-pic {
+        float: left;
+        margin-top: 24px;
+        margin-left: 14px;
+        width: 13px;
+        height: 3px;
+    }
+    .more-txt {
+        float: left;
+        margin-left: 10px;
+        margin-top: 3px;
+    }
+    .more-pic {
+        float: left;
+        margin-top: 6px;
+        margin-left: 16px;
+        width: 26px;
+        height: 6px;
+    }
+    .left-banner-txt4 {
+        width: 323px;
+    }
+    .left-banner-txt5 {
+        width: 320px;
+    }
+    .left-banner-txt6 {
+        width: 320px;
+    }
+    .content-top-title {
+        /* 内容区头部的标题 */
+        width: 100%;
+        height: 62px;
+        margin-left: 0px;
+    }
+    .content-top-title-txt>p {
+        /* 产品中心的字体 */
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: 400;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .content-top-title-intro>p {
+        /* 产品中心的介绍 */
+        font-family: MicrosoftYaHei;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #999999;
+        text-align: center;
+    }
+    .content-top {
+        /* 内容区头部 */
+        height: 1743px;
+        width: 100%;
+    }
+    .content {
+        /* 内容区 */
+        min-height: 1928px;
+        width: 100%;
+        margin-top: 58px;
+        padding-left: 0px;
+    }
+    .slide-box {
+        /* 轮播图 */
+        width: 100%;
+    }
+    .slide-change {
+        /* 轮播图上的按钮 */
+        margin-left: 34px;
+    }
+    .change1 {
+        width: 100px;
+        height: 40px;
+        background-color: #45c387;
+        border-radius: 3px;
+        float: left;
+        text-align: center;
+    }
+    .change2 {
+        width: 100px;
+        height: 40px;
+        background-color: #ecf9f3;
+        border-radius: 3px;
+        float: left;
+        margin-left: 5px;
+        text-align: center;
+    }
+    .change3 {
+        width: 100px;
+        height: 40px;
+        background-color: #ecf9f3;
+        border-radius: 3px;
+        float: left;
+        margin-left: 5px;
+        text-align: center;
+    }
+    .change3>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        display: block;
+        text-decoration: none;
+        color: #45c387;
+    }
+    .change2>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        color: #45c387;
+        display: block;
+        text-decoration: none;
+    }
+    .change1>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        color: #ffffff;
+        display: block;
+        text-decoration: none;
+    }
+    .content-middle-title-intro {
+        /* 最新动态的内容 */
+        margin-left: 33px;
+        width: 320px;
+    }
+    .content-middle-title-pic {
+        /* 最新动态的下划线 */
+        margin-left: 153px;
+        margin-top: 16px;
+    }
+    .footerbox {
+        width: 319px;
+        margin-left: -168px;
+    }
+    .code-txt>p {
+        letter-spacing: 0px;
+    }
+    .location {
+        width: 350px;
+        height: 50px;
+    }
+    .email {
+        width: 320px;
+    }
+    .dayin {
+        width: 320px;
+    }
+    .telephone {
+        width: 320px;
+    }
+    .content-middle-title-txt {
+        /* 最新动态 */
+        margin-left: 114px;
+    }
+    .content-footer {
+        /* 联系方式 */
+        width: 86%;
+        height: 596px;
+        border-radius: 8px;
+        background: url(../../img/index/chat-bc.png) no-repeat;
+        margin-top: 100px;
+        background-size: 320px 596px;
+        margin-left: 27px;
+    }
+    .chat-us-title {
+        /* 联系我们的字体 */
+        width: 228px;
+        padding-left: 100px;
+        padding-top: 50px;
+    }
+    .chat-us-title>p {
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 3px;
+        color: #ffffff;
+        width: 112px;
+        height: 25px;
+    }
+    .chat-us-intro>p {
+        font-family: MicrosoftYaHei;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #ffffff;
+    }
+    .chat-us-line {
+        /* 联系我们的下划线 */
+        padding-left: 145px;
+        margin-top: 16px;
+    }
+    .chat-us-intro {
+        /* 联系我们的简介 */
+        margin-top: 14px;
+        padding-left: 10px;
+        margin-bottom: 0px;
+    }
+    .inhead-line {
+        /* 整体输入框 */
+        width: 300px;
+        height: 48px;
+    }
+    .group {
+        /* 输入框 */
+        height: 48px;
+        margin-left: 0px;
+        margin-bottom: 5px;
+        margin-top: 30px;
+    }
+    .slidebar {
+        top: 213px;
+    }
+    .group2 input[type="submit "] {
+        width: 100px;
+        height: 48px;
+        background-color: #eef9f4;
+        box-shadow: -1px -1px 9px 1px rgb(45 129 89 / 25%);
+        border-radius: 24px;
+        border: none;
+        text-align: center;
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 30px;
+        letter-spacing: 0px;
+        color: #48b782;
+        margin-top: 60px;
+    }
+    .group2 {
+        padding-left: 103px;
+        margin-top: 114px;
+    }
+    .content-middle-title-txt>p {
+        /* 最新动态的字体样式 */
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: 550;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .content-middle-title-intro>p {
+        /* 最新动态介绍的字体样式 */
+        font-family: MicrosoftYaHei;
+        font-size: 8px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #999999;
+    }
+    .hide-menu {
+        /* 当页面缩小的时候，才会出现的menu图标 */
+        display: block;
+    }
+    .nav {
+        /* 当页面缩小时，目录栏隐藏 */
+        display: none;
+    }
+    .panel-body>ul>li {
+        /* 页面缩小时的目录栏 */
+        float: left;
+        margin-right: 20px;
+    }
+    .panel-body>ul {
+        /* 页面缩小的整体目录 */
+        width: 361px;
+        margin-left: 239px;
+        margin-top: -11px;
+    }
+    .one>li>a {
+        color: #ffffff;
+    }
+    .one>li:first-child>a {
+        color: #45c387;
+    }
+    .logo>a>img {
+        /* ipad端Logo */
+        width: 76px;
+        height: 28px;
+    }
+    .logo {
+        /* ipad端Logo */
+        width: 76px;
+        height: 28px;
+        margin-left: 20px;
+        margin-top: 14px;
+    }
+    .menu>.logo>a {
+        /* ipad端Logo */
+        display: block;
+        width: 76px;
+        height: 28px;
+    }
+    .menu {
+        position: fixed;
+        height: 55px;
+    }
+    .panel-title {
+        /* ipad端菜单栏图标 */
+        margin-right: -5px;
+        margin-top: 11px;
+    }
+    .banner {
+        top: 117px;
+        margin-left: 0px;
+    }
+    .more-txt>p {
+        width: 23px;
+        height: 6px;
+    }
+    .btn1 {
+        height: 395px;
+        margin-bottom: 20px;
+        width: 94.5%;
+        margin-left: 9px;
+    }
+    .btn2 {
+        height: 395px;
+        margin-bottom: 20px;
+        width: 94.5%;
+        margin-left: 9px;
+    }
+    .btn3 {
+        height: 395px;
+        margin-bottom: 20px;
+        width: 94.5%;
+        margin-left: 9px;
+    }
+    .btn4 {
+        height: 395px;
+        margin-bottom: 20px;
+        width: 94.5%;
+        margin-left: 9px;
+    }
+    .btn-pic>img {
+        height: 200px;
+        width: 100%;
+    }
+    .btn-pic {
+        width: 100%;
+    }
+    .btn-title>p {
+        font-family: MicrosoftYaHei;
+        font-size: 18px;
+        font-weight: 500;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .btn-content {
+        margin-top: -2px;
+        width: 282px;
+    }
+    .btn-content>p {
+        line-height: 20px;
+    }
+    .row {
+        margin-top: 32px;
+    }
+    .content-middle {
+        margin-top: 56px;
+    }
+    .slider1-txt {
+        width: 277px;
+        height: 41px;
+    }
+    body {
+        width: 100%;
+    }
+    .inhead-line>.group>.usermessage {
+        width: 310px;
+        height: 120px;
+    }
+    .scan-code {
+        width: 100%;
+        height: 422px;
+        top: 4586px;
+    }
+    .information {
+        width: 95%;
+        height: 410px;
+        margin-left: 15px;
+        margin-top: 0px;
+    }
+    .footer {
+        margin-top: 409px;
+    }
+    .news {
+        margin-left: -276px;
+        margin-top: 173px !important;
+    }
+    .data {
+        margin-left: 212px !important;
+        margin-top: 92px !important;
+    }
+    .news2 {
+        width: 56px;
+        height: 12px;
+        float: left;
+        margin-top: 180px;
+        margin-left: 24px;
+        margin-top: 63px !important;
+        margin-left: 26px !important;
+    }
+    .data2 {
+        width: 76px;
+        height: 11px;
+        float: right;
+        margin-top: 180px;
+        margin-right: 25px;
+        margin-top: 63px !important;
+        margin-left: 118px !important;
+    }
+    .news3 {
+        margin-top: 60px !important;
+        margin-left: 23px !important;
+    }
+    .data3 {
+        margin-top: 60px !important;
+        margin-left: 124px !important;
+    }
+    .slider3>a {
+        width: 304px;
+    }
+    .news4 {
+        margin-top: 58px !important;
+        margin-left: 24px !important;
+    }
+    .slider4>a {
+        width: 305px;
+    }
+    .data4 {
+        margin-left: 124px !important;
+        margin-top: 58px !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width:992px) {
+    .slider1 {
+        /* 轮播图一 */
+        background: url(../../img/index/know-pic.png) no-repeat;
+        width: 66.6%;
+        height: 356px;
+    }
+    .slider2 {
+        /* 轮播图二 */
+        height: 356px;
+        width: 33.3%;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+    }
+    .slider3 {
+        /* 轮播图三 */
+        height: 356px;
+        background-color: #dbf6e9;
+        border-radius: 8px;
+        /* display: none; */
+    }
+    .slider4 {
+        /* 轮播图四 */
+        height: 356px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+        /* display: none; */
+    }
+    .hidden-xs {
+        display: none;
+    }
+    .header {
+        /* 头部 */
+        width: 100%;
+        height: 569px;
+    }
+    .bd>ul>li>img {
+        width: 100%;
+        height: 569px;
+    }
+    .header>.swiper-container {
+        /* 轮播背景图 */
+        width: 100%;
+        height: 569px;
+        z-index: -99;
+    }
+    .menu {
+        /* 目录 */
+        width: 730px;
+        height: 30px;
+        top: 14px;
+        margin-left: 136px;
+        position: absolute;
+    }
+    .logo>img {
+        /* logo标 */
+        width: 76px;
+        height: 28px;
+    }
+    .nav {
+        /* 目录标 */
+        display: none;
+    }
+    .serach {
+        /* 搜索标 */
+        display: none;
+    }
+    .left-banner {
+        /* banner左侧内容 */
+        width: 350px;
+        height: 315px;
+        margin-top: 0px;
+    }
+    .banner {
+        /* banner栏 */
+        width: 745px;
+        height: 479px;
+        margin-left: 0px;
+    }
+    .left-banner-txt1>p {
+        /* welcome字体 */
+        font-family: ArialMT;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 2px;
+        color: #666666;
+    }
+    .left-banner-txt2 {
+        margin-top: 13px;
+    }
+    .left-banner-txt2>p {
+        /* 欢迎来到字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 22px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 21px;
+        letter-spacing: 2px;
+        color: #45c387;
+    }
+    .left-banner-txt3 {
+        margin-top: 16px;
+    }
+    .left-banner-txt3>p {
+        /* 金暮云字体 */
+        font-family: SourceHanSansCN-Medium;
+        font-size: 35px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 4px;
+        color: #45c387;
+    }
+    .left-banner-txt4>p {
+        /* 专业提供网页设计字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 20px;
+        letter-spacing: 2px;
+        color: #666666;
+    }
+    .left-banner-txt4 {
+        height: 38px;
+        margin-top: -15px;
+    }
+    .left-banner-txt5>p {
+        /* 网站建设的字体 */
+        width: 336px;
+        height: 15px;
+        font-family: SourceHanSansCN-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 2px;
+        color: #888888;
+    }
+    .left-banner-txt5 {
+        height: 30px;
+        margin-top: 52px;
+    }
+    .left-banner-txt6>p {
+        /* 维护运营的字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 1px;
+        color: #888888;
+    }
+    .left-banner-txt6 {
+        margin-top: -3px;
+    }
+    .right-banner {
+        width: 350px;
+        height: 372px;
+        margin-top: -72px;
+    }
+    .right-pic>img {
+        /* 右banner栏上的图片 */
+        width: 352px;
+        height: 238px;
+    }
+    .right-title>p {
+        /* 申报网站 */
+        font-family: SourceHanSansCN-Medium;
+        font-size: 22px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 0px;
+        color: #fffffe;
+    }
+    .right-title {
+        margin-top: 53px;
+    }
+    .right-content>P {
+        /* 申报网站下的文字 */
+        font-family: MicrosoftYaHei;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 0px;
+        color: #daf8fe;
+    }
+    .right-content {
+        width: 300px;
+    }
+    .hd {
+        width: 360px;
+        height: 55px;
+        background-color: #edf8f3;
+        float: right;
+        left: 382px;
+        top: 515px;
+    }
+    .hd>ul>li>a {
+        font-family: DINPro-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #6db687;
+    }
+    .hd>ul>li {
+        float: left;
+        margin-right: 30px;
+        margin-top: 24px;
+    }
+    .more {
+        width: 80px;
+        height: 25px;
+        border-radius: 8px;
+        border: solid 1px #45c387;
+        margin-top: 60px;
+    }
+    .more-txt>p {
+        font-family: MicrosoftYaHei;
+        font-size: 8px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #45c387;
+    }
+    .more-pic {
+        float: left;
+        margin-top: 24px;
+        margin-left: 14px;
+        width: 13px;
+        height: 3px;
+    }
+    .more-txt {
+        float: left;
+        margin-left: 10px;
+        margin-top: 3px;
+    }
+    .more-pic {
+        float: left;
+        margin-top: 6px;
+        margin-left: 16px;
+        width: 26px;
+        height: 6px;
+    }
+    .left-banner-txt4 {
+        width: 300px;
+    }
+    .content-top-title {
+        /* 内容区头部的标题 */
+        width: 324px;
+        height: 62px;
+        margin-left: 186px;
+    }
+    .content-top-title-txt>p {
+        /* 产品中心的字体 */
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .content-top-title-intro>p {
+        /* 产品中心的介绍 */
+        font-family: MicrosoftYaHei;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #999999;
+    }
+    .content-top {
+        /* 内容区头部 */
+        height: 866px;
+        width: 728px;
+    }
+    .content {
+        /* 内容区 */
+        min-height: 1928px;
+        width: 728px;
+        margin-top: 58px;
+        padding-left: 21px;
+    }
+    .slide-box {
+        /* 轮播图 */
+        width: 728px;
+    }
+    .slide-change {
+        /* 轮播图上的按钮 */
+        margin-left: 222px;
+    }
+    .another-more {
+        margin-left: 270px;
+    }
+    .change1 {
+        width: 100px;
+        height: 40px;
+        background-color: #45c387;
+        border-radius: 3px;
+        float: left;
+        text-align: center;
+    }
+    .change2 {
+        width: 100px;
+        height: 40px;
+        background-color: #ecf9f3;
+        border-radius: 3px;
+        float: left;
+        margin-left: 5px;
+        text-align: center;
+    }
+    .change3 {
+        width: 100px;
+        height: 40px;
+        background-color: #ecf9f3;
+        border-radius: 3px;
+        float: left;
+        margin-left: 5px;
+        text-align: center;
+    }
+    .change3>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        display: block;
+        text-decoration: none;
+        color: #45c387;
+    }
+    .change2>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        color: #45c387;
+        display: block;
+        text-decoration: none;
+    }
+    .change1>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        color: #ffffff;
+        display: block;
+        text-decoration: none;
+    }
+    .content-middle-title-intro {
+        /* 最新动态的内容 */
+        margin-left: 152px;
+    }
+    .content-middle-title-pic {
+        /* 最新动态的下划线 */
+        margin-left: 356px;
+        margin-top: 16px;
+    }
+    .content-middle-title-txt {
+        /* 最新动态 */
+        margin-left: 331px;
+    }
+    .content-footer {
+        /* 联系方式 */
+        width: 728px;
+        height: 350px;
+        border-radius: 8px;
+        background: url(../../img/index/chat-bc.png) no-repeat;
+        margin-top: 100px;
+    }
+    .chat-us-title {
+        /* 联系我们的字体 */
+        width: 132px;
+        padding-left: 290px;
+        padding-top: 17px;
+    }
+    .chat-us-line {
+        /* 联系我们的下划线 */
+        padding-left: 351px;
+        margin-top: 16px;
+    }
+    .chat-us-intro {
+        /* 联系我们的简介 */
+        margin-top: 14px;
+        padding-left: 189px;
+        margin-bottom: 0px;
+    }
+    .inhead-line {
+        /* 整体输入框 */
+        width: 300px;
+        height: 48px;
+    }
+    .group {
+        /* 输入框 */
+        height: 48px;
+        margin-left: 115px;
+        margin-bottom: 5px;
+    }
+    .group2 {
+        padding-left: 257px;
+        margin-top: 114px;
+    }
+    .content-middle-title-txt>p {
+        /* 最新动态的字体样式 */
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .content-middle-title-intro>p {
+        /* 最新动态介绍的字体样式 */
+        font-family: MicrosoftYaHei;
+        font-size: 8px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #999999;
+    }
+    .hide-menu {
+        /* 当页面缩小的时候，才会出现的menu图标 */
+        display: block;
+    }
+    .nav {
+        /* 当页面缩小时，目录栏隐藏 */
+        display: none;
+    }
+    .panel-body>ul>li {
+        /* 页面缩小时的目录栏 */
+        float: left;
+        margin-right: 20px;
+    }
+    .panel-body>ul {
+        /* 页面缩小的整体目录 */
+        width: 361px;
+        margin-left: 239px;
+        margin-top: -11px;
+    }
+    .one>li>a {
+        color: #ffffff;
+    }
+    .one>li:first-child>a {
+        color: #45c387;
+    }
+    .logo>a>img {
+        /* ipad端Logo */
+        width: 76px;
+        height: 28px;
+    }
+    .logo {
+        /* ipad端Logo */
+        width: 76px;
+        height: 28px;
+        margin-left: 21px;
+        margin-top: 14px;
+    }
+    .menu>.logo>a {
+        /* ipad端Logo */
+        display: block;
+        width: 76px;
+        height: 28px;
+    }
+    .menu {
+        top: 0px;
+        margin-left: 0px;
+        position: fixed;
+        width: 100%;
+        height: 55px;
+    }
+    .panel-title {
+        /* ipad端菜单栏图标 */
+        margin-right: 20px;
+        margin-top: 12px;
+    }
+    .hd>ul>li>a {
+        width: 40px;
+        height: 11px;
+    }
+    .banner {
+        top: 150px;
+        margin-left: 20px;
+    }
+    .more-txt>p {
+        width: 23px;
+        height: 6px;
+    }
+    .btn1 {
+        height: 176px;
+        margin-bottom: 20px;
+    }
+    .btn2 {
+        height: 176px;
+        margin-bottom: 20px;
+    }
+    .btn3 {
+        height: 176px;
+        margin-bottom: 20px;
+    }
+    .btn4 {
+        height: 176px;
+        margin-bottom: 20px;
+    }
+    .btn-pic>img {
+        height: 176px;
+    }
+    .btn-title>p {
+        font-family: MicrosoftYaHei;
+        font-size: 18px;
+        font-weight: 500;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .btn-content {
+        margin-top: -2px;
+    }
+    .btn-content>p {
+        line-height: 20px;
+    }
+    .row {
+        margin-top: 32px;
+    }
+    .content-middle {
+        margin-top: 56px;
+    }
+    .slider1-txt {
+        width: 445px;
+        height: 41px;
+    }
+    body {
+        width: 100%;
+    }
+    .inhead-line>.group>.usermessage {
+        width: 345px;
+    }
+    .scan-code {
+        width: 455px;
+        height: 422px;
+    }
+    .information {
+        width: 410px;
+        height: 410px;
+        margin-left: 51px;
+        margin-top: 34px;
+    }
+}
+
+@media (min-width: 992px) and (max-width:1200px) {
+    .slider1 {
+        /* 轮播图一 */
+        background: url(../../img/index/know-pic.png) no-repeat;
+        width: 66.6%;
+        height: 356px;
+    }
+    .slider2 {
+        /* 轮播图二 */
+        height: 356px;
+        width: 33.3%;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+    }
+    .slider3 {
+        /* 轮播图三 */
+        height: 356px;
+        background-color: #dbf6e9;
+        border-radius: 8px;
+        /* display: none; */
+    }
+    .slider4 {
+        /* 轮播图四 */
+        height: 356px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+        /* display: none; */
+    }
+    .hidden-xs {
+        display: none;
+    }
+    .header {
+        /* 头部 */
+        width: 100%;
+        height: 569px;
+    }
+    .bd>ul>li>img {
+        width: 100%;
+        height: 569px;
+    }
+    .bd>ul>li>img {
+        width: 100%;
+        height: 569px;
+    }
+    .header>.swiper-container {
+        /* 轮播背景图 */
+        width: 100%;
+        height: 569px;
+        z-index: -99;
+    }
+    .menu {
+        /* 目录 */
+        width: 730px;
+        height: 30px;
+        top: 14px;
+        margin-left: 20px;
+        position: absolute;
+    }
+    .logo>img {
+        /* logo标 */
+        width: 76px;
+        height: 28px;
+    }
+    .nav {
+        /* 目录标 */
+        display: none;
+    }
+    .serach {
+        /* 搜索标 */
+        display: none;
+    }
+    .left-banner {
+        /* banner左侧内容 */
+        width: 350px;
+        height: 315px;
+        margin-top: 0px;
+    }
+    .banner {
+        /* banner栏 */
+        width: 745px;
+        height: 479px;
+        margin-left: 0px;
+    }
+    .left-banner-txt1>p {
+        /* welcome字体 */
+        font-family: ArialMT;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 2px;
+        color: #666666;
+    }
+    .left-banner-txt2 {
+        margin-top: 13px;
+    }
+    .left-banner-txt2>p {
+        /* 欢迎来到字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 22px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 21px;
+        letter-spacing: 2px;
+        color: #45c387;
+    }
+    .left-banner-txt3 {
+        margin-top: 16px;
+    }
+    .left-banner-txt3>p {
+        /* 金暮云字体 */
+        font-family: SourceHanSansCN-Medium;
+        font-size: 35px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 4px;
+        color: #45c387;
+    }
+    .left-banner-txt4>p {
+        /* 专业提供网页设计字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 20px;
+        letter-spacing: 2px;
+        color: #666666;
+    }
+    .left-banner-txt4 {
+        height: 38px;
+        margin-top: -15px;
+    }
+    .left-banner-txt5>p {
+        /* 网站建设的字体 */
+        width: 336px;
+        height: 15px;
+        font-family: SourceHanSansCN-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 2px;
+        color: #888888;
+    }
+    .left-banner-txt5 {
+        height: 30px;
+        margin-top: 52px;
+    }
+    .left-banner-txt6>p {
+        /* 维护运营的字体 */
+        font-family: SourceHanSansCN-Regular;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 1px;
+        color: #888888;
+    }
+    .left-banner-txt6 {
+        margin-top: -3px;
+    }
+    .right-banner {
+        width: 350px;
+        height: 372px;
+        margin-top: -72px;
+    }
+    .right-pic>img {
+        /* 右banner栏上的图片 */
+        width: 407px;
+        height: 238px;
+    }
+    .right-title>p {
+        /* 申报网站 */
+        font-family: SourceHanSansCN-Medium;
+        font-size: 22px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 0px;
+        color: #fffffe;
+    }
+    .right-title {
+        margin-top: 53px;
+    }
+    .right-content>P {
+        /* 申报网站下的文字 */
+        font-family: MicrosoftYaHei;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 18px;
+        letter-spacing: 0px;
+        color: #daf8fe;
+    }
+    .right-content {
+        width: 300px;
+    }
+    .hd {
+        width: 360px;
+        height: 55px;
+        background-color: #edf8f3;
+        float: right;
+        position: absolute;
+        top: 514px;
+        left: 520px;
+    }
+    .hd>ul>li>a {
+        font-family: DINPro-Regular;
+        font-size: 15px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #6db687;
+    }
+    .hd>ul>li {
+        float: left;
+        margin-right: 29px;
+        margin-top: 24px;
+    }
+    .more {
+        width: 80px;
+        height: 25px;
+        border-radius: 8px;
+        border: solid 1px #45c387;
+        margin-top: 60px;
+    }
+    .more-txt>p {
+        font-family: MicrosoftYaHei;
+        font-size: 8px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #45c387;
+    }
+    .more-pic {
+        float: left;
+        margin-top: 24px;
+        margin-left: 14px;
+        width: 13px;
+        height: 3px;
+    }
+    .more-txt {
+        float: left;
+        margin-left: 10px;
+        margin-top: 3px;
+    }
+    .more-pic {
+        float: left;
+        margin-top: 6px;
+        margin-left: 16px;
+        width: 26px;
+        height: 6px;
+    }
+    .left-banner-txt4 {
+        width: 300px;
+    }
+    .content-top-title {
+        /* 内容区头部的标题 */
+        width: 324px;
+        height: 62px;
+        margin-left: 186px;
+    }
+    .content-top-title-txt>p {
+        /* 产品中心的字体 */
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: 550;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .content-top-title-intro>p {
+        /* 产品中心的介绍 */
+        font-family: MicrosoftYaHei;
+        font-size: 12px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #999999;
+    }
+    .content-top {
+        /* 内容区头部 */
+        height: 866px;
+        width: 728px;
+    }
+    .content {
+        /* 内容区 */
+        min-height: 1928px;
+        width: 898px;
+        margin-top: 58px;
+        padding-left: 136px;
+    }
+    .slide-box {
+        /* 轮播图 */
+        width: 728px;
+    }
+    .slide-change {
+        /* 轮播图上的按钮 */
+        margin-left: 210px;
+    }
+    .change1 {
+        width: 100px;
+        height: 40px;
+        background-color: #45c387;
+        border-radius: 3px;
+        float: left;
+        text-align: center;
+    }
+    .change2 {
+        width: 100px;
+        height: 40px;
+        background-color: #ecf9f3;
+        border-radius: 3px;
+        float: left;
+        margin-left: 20px;
+        text-align: center;
+    }
+    .change3 {
+        width: 100px;
+        height: 40px;
+        background-color: #ecf9f3;
+        border-radius: 3px;
+        float: left;
+        margin-left: 20px;
+        text-align: center;
+    }
+    .change3>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        display: block;
+        text-decoration: none;
+        color: #45c387;
+    }
+    .change2>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        color: #45c387;
+        display: block;
+        text-decoration: none;
+    }
+    .change1>a {
+        font-family: MicrosoftYaHei;
+        font-size: 16px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 34px;
+        letter-spacing: 0px;
+        color: #ffffff;
+        display: block;
+        text-decoration: none;
+    }
+    .content-middle-title-intro {
+        /* 最新动态的内容 */
+        margin-left: 152px;
+    }
+    .content-middle-title-pic {
+        /* 最新动态的下划线 */
+        margin-left: 356px;
+        margin-top: 16px;
+    }
+    .content-middle-title-txt {
+        /* 最新动态 */
+        margin-left: 331px;
+    }
+    .content-footer {
+        /* 联系方式 */
+        width: 728px;
+        height: 350px;
+        border-radius: 8px;
+        background: url(../../img/index/chat-bc.png) no-repeat;
+        margin-top: 100px;
+    }
+    .another-more {
+        /* 另一个more框的样式 */
+        width: 160px;
+        height: 50px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+        margin-top: 50px;
+        margin-left: 300px;
+    }
+    .chat-us-title {
+        /* 联系我们的字体 */
+        width: 132px;
+        padding-left: 290px;
+        padding-top: 17px;
+    }
+    .chat-us-line {
+        /* 联系我们的下划线 */
+        padding-left: 351px;
+        margin-top: 16px;
+    }
+    .chat-us-intro {
+        /* 联系我们的简介 */
+        margin-top: 14px;
+        padding-left: 189px;
+        margin-bottom: 0px;
+    }
+    .inhead-line {
+        /* 整体输入框 */
+        width: 300px;
+        height: 48px;
+    }
+    .group {
+        /* 输入框 */
+        height: 48px;
+        margin-left: 115px;
+        margin-bottom: 5px;
+    }
+    .group2 {
+        padding-left: 257px;
+        margin-top: 114px;
+    }
+    .content-middle-title-txt>p {
+        /* 最新动态的字体样式 */
+        font-family: MicrosoftYaHei;
+        font-size: 25px;
+        font-weight: 550;
+        font-stretch: normal;
+        line-height: 30px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .content-middle-title-intro>p {
+        /* 最新动态介绍的字体样式 */
+        font-family: MicrosoftYaHei;
+        font-size: 8px;
+        font-weight: normal;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #999999;
+    }
+    .hide-menu {
+        /* 当页面缩小的时候，才会出现的menu图标 */
+        display: block;
+    }
+    .nav {
+        /* 当页面缩小时，目录栏隐藏 */
+        display: none;
+    }
+    .panel-body>ul>li {
+        /* 页面缩小时的目录栏 */
+        float: left;
+        margin-right: 20px;
+    }
+    .panel-body>ul {
+        /* 页面缩小的整体目录 */
+        width: 361px;
+        margin-left: 239px;
+        margin-top: -11px;
+    }
+    .one>li>a {
+        color: #ffffff;
+    }
+    .one>li:first-child>a {
+        color: #45c387;
+    }
+    .logo>a>img {
+        /* ipad端Logo */
+        width: 76px;
+        height: 28px;
+    }
+    .logo {
+        /* ipad端Logo */
+        width: 76px;
+        height: 28px;
+        margin-left: 134px;
+        margin-top: 14px;
+    }
+    .menu>.logo>a {
+        /* ipad端Logo */
+        display: block;
+        width: 76px;
+        height: 28px;
+    }
+    .menu {
+        top: 0px;
+        margin-left: 0px;
+        position: fixed;
+        width: 100%;
+        height: 55px;
+    }
+    .panel-title {
+        /* ipad端菜单栏图标 */
+        margin-right: 167px;
+        margin-top: 11px;
+    }
+    .hd>ul>li>a {
+        width: 40px;
+        height: 11px;
+    }
+    .banner {
+        top: 150px;
+        margin-left: 136px;
+    }
+    .more-txt>p {
+        width: 23px;
+        height: 6px;
+    }
+    .btn1 {
+        height: 176px;
+        margin-bottom: 20px;
+    }
+    .btn2 {
+        height: 176px;
+        margin-bottom: 20px;
+    }
+    .btn3 {
+        height: 176px;
+        margin-bottom: 20px;
+    }
+    .btn4 {
+        height: 176px;
+        margin-bottom: 20px;
+    }
+    .btn-pic>img {
+        height: 176px;
+    }
+    .btn-title>p {
+        font-family: MicrosoftYaHei;
+        font-size: 18px;
+        font-weight: 500;
+        font-stretch: normal;
+        line-height: 15px;
+        letter-spacing: 0px;
+        color: #273748;
+    }
+    .btn-content {
+        margin-top: -2px;
+    }
+    .btn-content>p {
+        line-height: 20px;
+    }
+    .row {
+        margin-top: 32px;
+    }
+    .content-middle {
+        margin-top: 56px;
+    }
+    .slider1-txt {
+        width: 445px;
+        height: 41px;
+    }
+    body {
+        width: 100%;
+    }
+    .inhead-line>.group>.usermessage {
+        width: 345px;
+    }
+    .scan-code {
+        width: 455px;
+        height: 422px;
+    }
+    .information {
+        width: 410px;
+        height: 410px;
+        margin-left: 51px;
+        margin-top: 30px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width:1400px) {
+    body {
+        width: 100%;
+    }
+    .menu {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .banner {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .content {
+        width: 100%;
+        padding-left: 0px;
+    }
+    .inhead-line {
+        width: 1250px;
+    }
+    .information {
+        margin-left: 88px;
+    }
+    .nav {
+        margin-left: 288px;
+        float: left;
+    }
+    .serach {
+        float: right;
+        margin-top: 45px;
+        margin-right: 48px;
+    }
+    .left-banner {
+        width: 600px;
+        margin-left: 57px;
+    }
+    .right-banner {
+        width: 600px;
+        margin-right: 34px;
+    }
+    .right-pic>img {
+        width: 600px;
+    }
+    .btn1 {
+        width: 646px;
+        height: 200px;
+        margin-left: 15px;
+    }
+    .btn2 {
+        width: 646px;
+        height: 200px;
+        margin-left: 15px;
+    }
+    .btn3 {
+        width: 646px;
+        height: 200px;
+        margin-left: 15px;
+    }
+    .btn4 {
+        width: 646px;
+        height: 200px;
+        margin-left: 15px;
+    }
+    .content-top {
+        width: 100%;
+    }
+    .content-middle {
+        width: 100%;
+    }
+    .slide-box {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .content-footer {
+        width: 100%;
+    }
+    .inhead-line>.group>.usermessage {
+        width: 350px;
+    }
+    .slider1 {
+        min-width: 240px;
+    }
+    .slider2 {
+        min-width: 240px;
+    }
+    .slider3 {
+        min-width: 240px;
+    }
+    .slider4 {
+        min-width: 240px;
+    }
+    .logo {
+        margin-left: 58px;
+    }
+    .hd {
+        position: absolute;
+        top: 830px;
+        left: 465px;
+    }
+    .inhead {
+        padding-left: 75px;
+    }
+    .slider4-txt {
+        width: 216px;
+    }
+    .slider4>a {
+        width: 240px;
+    }
+}
+
+@media (min-width: 1400px) and (max-width:1845px) {
+    .slider1 {
+        /* 轮播图一 */
+        width: 40%;
+        background: url(../../img/index/know-pic.png) no-repeat;
+        height: 356px;
+    }
+    .slider2 {
+        /* 轮播图二 */
+        width: 20%;
+        height: 356px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+    }
+    .slider3 {
+        /* 轮播图三 */
+        width: 20%;
+        height: 356px;
+        background-color: #dbf6e9;
+        border-radius: 8px;
+    }
+    .slider4 {
+        /* 轮播图四 */
+        width: 20%;
+        height: 356px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+    }
+    .hidden-lg {
+        display: none;
+    }
+    body {
+        width: 100%;
+    }
+    .menu {
+        width: 1366px;
+        margin-left: 0px;
+    }
+    .banner {
+        width: 1366px;
+        margin-left: 0px;
+    }
+    .content {
+        width: 1366px;
+        padding-left: 0px;
+    }
+    .inhead-line {
+        width: 1250px;
+    }
+    .information {
+        margin-left: 88px;
+    }
+    .nav {
+        margin-left: 288px;
+        float: left;
+    }
+    .serach {
+        float: right;
+        margin-top: 47px;
+        margin-right: 57px;
+    }
+    .left-banner {
+        width: 600px;
+        margin-left: 57px;
+    }
+    .right-banner {
+        width: 600px;
+        margin-right: 34px;
+    }
+    .right-pic>img {
+        width: 600px;
+    }
+    .btn1 {
+        width: 646px;
+        height: 200px;
+        margin-left: 15px;
+    }
+    .btn2 {
+        width: 646px;
+        height: 200px;
+        margin-left: 15px;
+    }
+    .btn3 {
+        width: 646px;
+        height: 200px;
+        margin-left: 15px;
+    }
+    .btn4 {
+        width: 646px;
+        height: 200px;
+        margin-left: 15px;
+    }
+    .content-top {
+        width: 1366px;
+    }
+    .content-middle {
+        width: 1366px;
+    }
+    .slide-box {
+        width: 1336px;
+        margin-left: 9px;
+    }
+    .content-footer {
+        width: 1330px;
+        margin-left: 21px;
+    }
+    .inhead-line>.group>.usermessage {
+        width: 350px;
+    }
+    .slider1 {
+        min-width: 245px;
+    }
+    .slider2 {
+        min-width: 245px;
+    }
+    .slider3 {
+        min-width: 245px;
+    }
+    .slider4 {
+        min-width: 245px;
+    }
+    .logo {
+        margin-left: 58px;
+    }
+    .hd {
+        position: absolute;
+        top: 830px;
+        left: 465px;
+    }
+}
+
+@media (min-width: 1845px) {
+    .slider1 {
+        /* 轮播图一 */
+        width: 40%;
+        background: url(../../img/index/know-pic.png) no-repeat;
+        height: 356px;
+    }
+    .slider2 {
+        /* 轮播图二 */
+        width: 20%;
+        height: 356px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+    }
+    .slider3 {
+        /* 轮播图三 */
+        width: 20%;
+        height: 356px;
+        background-color: #dbf6e9;
+        border-radius: 8px;
+    }
+    .slider4 {
+        /* 轮播图四 */
+        width: 20%;
+        height: 356px;
+        background-color: #ecf9f3;
+        border-radius: 8px;
+    }
+    .hidden-lg {
+        display: none;
+    }
+}

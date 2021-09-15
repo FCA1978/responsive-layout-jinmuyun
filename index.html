@@ -1,0 +1,704 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>首页</title>
+
+    <style>
+        #allmap {
+            overflow: hidden;
+            width: 100%;
+            margin: 0;
+            font-family: "微软雅黑";
+        }
+    </style>
+
+    <link rel="stylesheet" href="./css/index/header.css">
+    <link rel="stylesheet" href="./css/index/banner.css">
+    <link rel="stylesheet" href="./css/index/content.css">
+    <link rel="stylesheet" href="./css/index/footer.css">
+    <link rel="stylesheet" href="./css/index/map.css">
+
+    <link rel="stylesheet" href="./css/public/animate.css">
+    <link rel="stylesheet" href="./css/public/hover.min.css">
+    <link rel="stylesheet" href="./css/public/public.css">
+    <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/index/changebootstrap.css">
+    <link rel="stylesheet" href="./swiper/swiper-master/package/swiper-bundle.min.css">
+
+    <script src="./js/jq/jquery-1.11.3.min.js"></script>
+    <script src="./js/jq/SuperSlide.js"></script>
+    <script src="./js/moveslide.js"></script>
+    <script src="./bootstrap/js/bootstrap.min.js"></script>
+    <script src="./js/nav.js"></script>
+    <script src="./swiper/swiper-master/package/swiper-bundle.min.js"></script>
+    <script src="./js/change.js"></script>
+    <script src="./js/top.js"></script>
+
+</head>
+
+<body>
+    <div class="header">
+        <!-- 头部 -->
+        <div id="slideBox" class="slideBox">
+            <div class="hd">
+                <ul>
+                    <li>
+                        <a href="javascript:;">
+                            <P>01</P>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <P>02</P>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <P>03</P>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <P>04</P>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="javascript:;">
+                            <P>05</P>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="bd">
+                <ul>
+                    <li>
+                        <img src="./img/index/left-bc.png" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/index/left-bc.png" alt="">
+                    </li>
+                    <li>
+                        <img src="./img/index/left-bc.png" alt="">
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="menu clearfix">
+        <div class="logo">
+            <!-- 金暮云logo -->
+            <a href="index.html">
+                <img src="./img/index/kinglogo.png" alt="该浏览器无法显示，请检查图片路径">
+            </a>
+        </div>
+
+        <div class="nav">
+            <!-- 目录 -->
+            <ul class="one clearfix">
+                <li>
+                    <a href="javascript:;">首页</a>
+                    <div class="nod-first"><img src="./img/index/green.png" alt=""></div>
+                </li>
+                <li>
+                    <a href="javascript:;">产品中心</a>
+                    <div class="nod"><img src="./img/index/green.png" alt=""></div>
+                </li>
+                <li>
+                    <a href="javascript:;">最新动态</a>
+                    <div class="nod"><img src="./img/index/green.png" alt=""></div>
+                </li>
+                <li>
+                    <a href="javascript:;">案例显示</a>
+                    <div class="nod"><img src="./img/index/green.png" alt=""></div>
+                </li>
+                <li>
+                    <a href="javascript:;">关于我们</a>
+                    <div class="nod"><img src="./img/index/green.png" alt=""></div>
+                </li>
+            </ul>
+        </div>
+
+        <div class="hide-menu" id="accordion">
+            <div class="panel clearfix">
+                <div class="panel-heading">
+                    <div class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+                            <img src="./img/index/menu.png" alt="" style="width: 22px;height: 18px;">
+                        </a>
+                    </div>
+                </div>
+                <div id="collapseOne" class="panel-collapse collapse ">
+                    <div class="panel-body">
+                        <ul class="one clearfix">
+                            <li>
+                                <a href="index.html">首页</a>
+                                <div class="nod-first"><img src="./img/index/green.png" alt=""></div>
+                            </li>
+                            <li>
+                                <a href="javascript:;">产品中心</a>
+                                <div class="nod"><img src="./img/index/green.png" alt=""></div>
+                            </li>
+                            <li>
+                                <a href="javascript:;">最新动态</a>
+                                <div class="nod"><img src="./img/index/green.png" alt=""></div>
+                            </li>
+                            <li>
+                                <a href="javascript:;">案例显示</a>
+                                <div class="nod"><img src="./img/index/green.png" alt=""></div>
+                            </li>
+                            <li>
+                                <a href="javascript:;">关于我们</a>
+                                <div class="nod"><img src="./img/index/green.png" alt=""></div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="serach">
+            <!-- 搜索 -->
+            <a href="javascript:;">
+                <img src="./img/index/search.png" alt="此图片无法显示，请检查图片路径"></a>
+        </div>
+    </div>
+    <div class="banner">
+        <!-- banner -->
+        <div class="left-banner">
+            <!-- 左边的banner内容 -->
+            <div class="left-banner-txt1">
+                <P>Welcome</P>
+            </div>
+            <div class="left-banner-txt2">
+                <P>欢迎来到</P>
+            </div>
+            <div class="left-banner-txt3">
+                <P>金慕云科技有限公司</P>
+            </div>
+            <div class="left-banner-txt4">
+                <P>专业提供网页设计、网站建设、网站推广、动画视频等互联网服务</P>
+            </div>
+            <div class="left-banner-txt5">
+                <P>网站建设 SEO优化 视频制作 VI系统设计</P>
+            </div>
+            <div class="left-banner-txt6">
+                <P>维护运营 域名注册 ICP备案 服务器托管</P>
+            </div>
+            <div class="more">
+                <a href="javascript:;">
+                    <div class="more-txt">
+                        <P>MORE</P>
+                    </div>
+                    <div class="more-pic">
+
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="right-banner">
+            <!-- 右边的banner内容 -->
+            <div class="right-pic">
+                <!-- 申报类网站汇总图片 -->
+                <img src="./img/index/web-pic.png" alt="图片无法显示，请检查图片路径" ">
+                </div>
+                <div class="right-title ">
+                    <!-- 右侧banner文字 -->
+                    <p>申报类网站</p>
+                </div>
+                <div class="right-content ">
+                    <P>申报类网站分为：精品在线开放课程、“课程思政”示范课程申报</P>
+                </div>
+            </div>
+            <!-- <div class="list ">
+                
+                <ul class="clearfix ">
+                    <li><a href="javascript:; ">01</a></li>
+                    <li><a href="javascript:; ">02</a></li>
+                    <li><img src="./img/index/green-line.png " alt="此图片无法显示，请检查图片路径 "></li>
+                    <li><a href="javascript:; ">04</a></li>
+                    <li><a href="javascript:; ">05</a></li>
+                </ul>
+            </div> -->
+        </div>
+
+    </div>
+
+
+    <div class="content ">
+        <!-- 内容区 -->
+        <div class="content-top clearfix ">
+            <!-- 内容头部 -->
+            <div class="content-top-title ">
+                <!-- 产品中心标题 -->
+                <div class="content-top-title-txt ">
+                    <p>产品中心</p>
+                </div>
+                <div class="content-line ">
+                    <!-- 下面的下划线 -->
+                    <img src="./img/index/shortline.png " alt="此图片无法显示，请检查图片路径 ">
+                </div>
+                <div class="content-top-title-intro ">
+                    <!-- 标题的解释 -->
+                    <P>不论您身在何处，金慕云都愿意为您提供高价值产品建设服务</P>
+                </div>
+            </div>
+            
+            <div class="row ">
+                <!-- 内容区顶部的卡片按钮 -->
+               <div class="btn-border col-lg-6 col-sm-12 col-xs-12 ">
+                <div class="btn1 ">
+                    <!-- 网站系列卡片 -->
+                    
+                    <div class="btn-pic ">
+                        <!-- 左侧图片 -->
+                        <img src="./img/index/1.png " alt=" ">
+                    </div>
+                    <div class="btn-right "> 
+                        <!-- 卡片按钮右侧内容框 -->
+                    <div class="btn-title ">
+                        <!-- 网站系列标题 -->
+                        <p>网站系列</p>
+                    </div>
+                    <div class="btn-line ">
+                        <img src="./img/index/btn-line.png " alt=" ">
+                    </div>
+                    <div class="btn-content ">
+                        <!-- 按钮内容区 -->
+                        <P>专注网站建设八年，丰富的设计经验、深厚的技术沉淀，专业团队为您提供一站式解决方案。 </P>
+                    </div>
+                    <div class="view-more ">
+                        <!-- view-more查看更多 -->
+                        <a href="javascript:; "><p>View  More</p></a>
+                    </div>
+                </div>
+                
+                </div>
+                </div>
+
+                <div class="btn-border col-lg-6 col-sm-12 col-xs-12 ">
+                <div class="btn2 ">
+                    <!-- 系统平台卡片 -->
+                    
+                    <div class="btn-pic ">
+                        <!-- 左侧图片 -->
+                        <img src="./img/index/2.png " alt=" ">
+                    </div>
+                    <div class="btn-right "> 
+                        <!-- 卡片按钮右侧内容框 -->
+                    <div class="btn-title ">
+                        <!-- 网站系列标题 -->
+                        <p>系统平台</p>
+                    </div>
+                    <div class="btn-line ">
+                        <img src="./img/index/btn-line.png " alt=" ">
+                    </div>
+                    <div class="btn-content ">
+                        <!-- 按钮内容区 -->
+                        <P>完全根据用户需求进行系统定制，从逻辑关系梳理、原型策划、可行性分析报告到系统设计开发、系统测试... </P>
+                    </div>
+                    <div class="view-more ">
+                        <!-- view-more查看更多 -->
+                        <a href="javascript:; "><p>View  More</p></a>
+                    </div>
+                </div>
+           
+                </div>
+
+                </div>
+
+                <div class="btn-border col-lg-6 col-sm-12 col-xs-12 ">
+                <div class="btn3 ">
+                    <!-- 网站系列卡片 -->
+                    
+                    <div class="btn-pic ">
+                        <!-- 左侧图片 -->
+                        <img src="./img/index/3.png " alt=" ">
+                    </div>
+                    <div class="btn-right "> 
+                        <!-- 卡片按钮右侧内容框 -->
+                    <div class="btn-title ">
+                        <!-- 网站系列标题 -->
+                        <p>数字资源</p>
+                    </div>
+                    <div class="btn-line ">
+                        <img src="./img/index/btn-line.png " alt=" ">
+                    </div>
+                    <div class="btn-content ">
+                        <!-- 按钮内容区 -->
+                        <P>让智慧触手可及，让便利无处不在；APP、小程序、公众号、H5交互专业设计开发，为您提高转化降低门槛... </P>
+                    </div>
+                    <div class="view-more ">
+                        <!-- view-more查看更多 -->
+                        <a href="javascript:; "><p>View  More</p></a> 
+                    </div>
+                </div>
+                </div>
+                </div>
+
+                <div class="btn-border col-lg-6 col-sm-12 col-xs-12 ">
+                <div class="btn4 ">
+                    <!-- 网站系列卡片 -->
+                    
+                    <div class="btn-pic ">
+                        <!-- 左侧图片 -->
+                        <img src="./img/index/4.png " alt=" ">
+                    </div>
+                    <div class="btn-right "> 
+                        <!-- 卡片按钮右侧内容框 -->
+                    <div class="btn-title ">
+                        <!-- 网站系列标题 -->
+                        <p>定制服务</p>
+                    </div>
+                    <div class="btn-line ">
+                        <img src="./img/index/btn-line.png " alt=" ">
+                    </div>
+                    <div class="btn-content ">
+                        <!-- 按钮内容区 -->
+                        <P>金慕云用心为客户制定产品规划、布局规划、组织规划，确立系统应用目标，制定后期营销战略规划，有... </P>
+                    </div>
+                    <div class="view-more ">
+                        <!-- view-more查看更多 -->
+                        <a href="javascript:; "><p>View  More</p></a> 
+                    </div>
+                </div>
+                </div>
+                </div>
+                
+            </div> 
+        </div>
+        <div class="content-middle ">
+            <!-- 内容中间 -->
+            <div class="content-middle-title ">
+                <!-- 最新动态标题 -->
+                <div class="content-middle-title-txt ">
+                    <P>最新动态</P>
+                </div>
+                <div class="content-middle-title-pic ">
+                    <img src="./img/index/shortline.png " alt=" ">
+                </div>
+                <div class="content-middle-title-intro ">
+                    <P>提供最新企业动态，分享前沿的网站建设和教育局政策等干货，解读您所有困惑</P>
+                </div>
+                <div class="slide-change clearfix ">
+                <div class="change1 "><a href="javascript:; ">全部</a></div>
+                <div class="change2 "><a href="javascript:; ">行业新闻</a></div>
+                <div class="change3 "><a href="javascript:; ">公司新闻</a></div>
+            </div>
+                <div class="slide-box clearfix ">
+                    <div class="slider1 ">
+                        <a href="javascript:; ">
+                        <div class="slider1-txt ">
+                            <p>五一劳动奖章获奖者出炉！广东省第五届青年教师大赛高职组落幕！</p>
+                        </div>
+                        <div class="news ">
+                            <P>行内新闻</P>
+                        </div>
+                        <div class="data ">
+                            <P>2020-08-04</P>
+                        </div>  
+                        </a>
+                    </div>
+                    <div class="slider2 ">
+                        <a href="javascript:; ">
+                        <div class="slider2-txt ">
+                            <p>全国战“疫”彰显中国精神│我司与广西建院合作建设系列战“疫”思政微课</p>
+                        </div> 
+                        <div class="news2 ">
+                            <P>行内新闻</P>
+                        </div>
+                        <div class="data2 ">
+                            <P>2020-04-25</P>
+                        </div> </a> 
+                    </div>
+                    <div class="slider3 hidden-sm hidden-md ">
+                        <a href="javascript:; ">
+                        <div class="slider3-txt ">
+                            <p>疫情拉远了距离，却未能拉远我们的心，课件定制服务在远程办公下沟通无碍按时完成</p>
+                        </div>
+                        <div class="news3 ">
+                            <P>行内新闻</P>
+                        </div>
+                        <div class="data3 ">
+                            <P>2020-04-25</P>
+                        </div> </a>
+                    </div>
+                    <div class="slider4 hidden-sm hidden-md ">
+                        <a href="javascript:; ">
+                        <div class="slider4-txt ">
+                            <p>职业教育的“奥林匹克”-全国职业院校教师教学能力大赛</p>
+                        </div>
+                        <div class="news4 ">
+                            <P>行内新闻</P>
+                        </div>
+                        <div class="data4 ">
+                            <P>2020-03-08</P> 
+                        </div> </a>
+                    </div>
+                </div>
+
+                 <div class="another-more ">
+                    <!-- more -->
+                    <a href="javascript:; ">
+                        <div class="another-more-txt ">
+                            <p>MORE</p>
+                        </div>
+                        <div class="another-more-arrow ">
+                            
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+        <div class="content-footer ">
+            <!-- 内容底部 -->
+            <div class="chat-us-title ">
+                <!-- 联系我们 -->
+                <P>联系我们</P>
+            </div>
+            <div class="chat-us-line ">
+                <!-- 联系我们的下划线 -->
+                <img src="./img/index/white.png " alt="此图片无法显示，请检查图片路径 ">
+            </div>
+            <div class="chat-us-intro ">
+                <!-- 联系我们的简介 -->
+                <P>如想了解更为详细的解决方案请通过以下方式联系我们</P>
+            </div>
+
+            <div class="inhead ">           
+            <form action="# " method="POST ">
+                <div class="inhead-line clearfix ">
+               <div class="group ">
+                <input type="text " placeholder="请输入您的姓名 " name="username " id="username ">
+               </div>
+                
+                <div class="group ">
+                    <input type="text " placeholder="请输入您的邮箱 " name="useremail " id="useremail ">
+                </div>
+                
+                <div class="group ">
+                    <input type="text " placeholder="请输入您的留言 " name="usermessage " class="usermessage ">
+                </div>
+            </div>
+
+                <div class="group2 ">
+                    <a href="javascript:; ">
+                    <input type="submit " value="提交 " id="usersub " name="usersub " style="cursor: pointer; "></a>
+                </div>
+            </form>
+        </div>
+
+        </div>
+    </div>
+
+    <div id="allmap " class="mapbaidu " style="height: 840px;z-index: 1;top: -297px; ">
+      <!-- 地图 -->
+    </div>
+
+    <div class="scan-code ">
+        <div class="information ">
+        <div class="telephone ">
+            <!-- 电话 -->
+            <div class="code-img ">
+            <img src="./img/index/cheat1.png " alt=" "></div>
+            <div class="code-txt "><P>020-31707946</P></div>
+            
+        </div>
+        <div class="dayin ">
+            <div class="code-img ">
+                <img src="./img/index/cheat2.png " alt=" ">
+            </div>
+            
+            <div class="code-txt ">
+                <p>020-31707946</p>
+            </div>
+        </div>
+        <div class="email ">
+            <div class="code-img ">
+            <img src="./img/index/cheat3.png " alt=" ">
+        </div>
+            
+        <div class="code-txt ">
+            <p>unsuncs@126.com</p>
+        </div>
+        </div>
+        <div class="location ">
+            <div class="code-img ">
+            <img src="./img/index/cheat4.png " alt=" ">
+        </div>
+            
+        <div class="code-txt ">
+            <p>南宁市西乡塘区发展大道189号B座三层303室</p>
+            </div>
+        </div>
+        <div class="scan1 ">
+            <div class="scan-img "> <img src="./img/index/QRcode1.png " alt="此图片无法显示，请检查图片路径 "></div>
+           
+            <div class="scan-txt "><P>关注微信公众号</P></div>
+            
+        </div>
+        <div class="scan2 ">
+            <div class="scan-img "><img src="./img/index/QRcode2.png " alt="此图片无法显示，请检查图片路径 "></div>
+            
+            <div class="scan-txt "><p>扫码添加微信</p></div>
+            
+        </div>
+    </div>
+    </div>
+        
+   
+
+    <div class="footer ">
+        <!-- 底部  -->
+        <div class="footerbox ">
+            <P>Copyright © 2021 <a href="javascript:; ">广西金慕云科技有限公司</a> 版权所有 桂ICP备20002265号-2</P>
+        </div>
+        
+    </div>
+   
+    <div class="slidebar ">
+        <!-- 右侧联系导航栏 -->
+        <div class="btn ">
+            <!-- 在线咨询按钮 -->
+            <a href="javascript:; ">
+            <img src="./img/index/cheat-logo.png " alt="图片无法显示，请检查图片路径 " style="width: 80px;height: 80px; ">
+            </a>
+        </div>
+        <div class="btn-txt ">
+            <a href="javascript:; "><P>在线咨询</P></a>
+        </div>
+        <ul class="webchat ">
+            <li style="padding-top: 10px; ">
+                <div class="qq ">
+                    <a href="javascript:; ">
+                    </a>
+                    <div class="qq-txt ">
+                        <a href="javascript:; "><P>qq咨询</P></a>
+                    </div>
+                </div>
+                
+            </li>
+            <li>
+                <div class="phone ">
+                    <img src="./img/index/chat-line.png " alt=" ">
+                    <a href="javascript:; ">
+                    </a>
+                    <div class="phone-txt ">
+                        <a href="javascript:; "><P>电话咨询</P></a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div class="back ">
+                    <img src="./img/index/chat-line.png " alt=" ">
+                    <a href="javascript:; "><img src="./img/index/back.png " alt=" "></a>
+                </div>    
+            </li>
+        </ul>
+    </div>
+
+    <div class="top ">
+        <!-- 返回顶部 -->
+        <a href="javascript:; ">
+            <img src="./img/index/top.png " alt=" ">
+        </a>
+    </div>
+
+   
+</body>
+
+</html>
+
+<script type="text/javascript " src="https://api.map.baidu.com/api?type=webgl&v=1.2&ak=vriVzGpaK8AUmNekwq9rytKBOtqGc3Cp "></script>
+<script type="text/javascript ">
+    var map = new BMapGL.Map('allmap ');
+    // 设置可视区域中心地址
+    var point = new BMapGL.Point(108.288528,22.88659);
+    map.centerAndZoom(point, 19);
+
+    var marker = new BMapGL.Marker(new BMapGL.Point(108.291048, 22.885995)); // 创建标注
+    map.addOverlay(marker); // 将标注添加到地图中
+    var opts = {
+
+        offset: new BMapGL.Size(-170, -150),
+        position: new BMapGL.Point(108.291048, 22.885995),
+
+    }
+
+
+    var label = new BMapGL.Label("南宁市西乡塘区发展大道189号B座三层303室 ", opts); // 创建信息窗口对象 
+
+    // 自定义文本标注样式
+    label.setStyle({
+        color: '#fffefe',
+        borderRadius: '5px',
+        backgroundColor: '#f3bd33',
+        letterSpacing: '1px',
+        fontSize: '14px',
+        height: '94px',
+        width: "240px ",
+        lineHeight: '24px',
+        fontFamily: '微软雅黑',
+        opacity: '0.95',
+        boxShadow: '-1px -1px 11px 1px rgba(0, 0, 0, 0.1)',
+        padding: '37px 318px 1px 15px',
+       
+        border: 'none',
+
+    });
+
+   
+    map.addOverlay(label); //开启信息窗口
+
+    
+    if (navigator.appName == "Microsoft Internet Explorer " && parseInt(navigator.appVersion.split("; ")[1].replace(/[ ]/g, " ").replace("MSIE ", " ")) < 10) {
+                $(".contact_forms_ie_tit ").show()  
+            }
+
+    
+   
+
+    
+
+
+//  设置跳转定时器
+
+    
+    var timer = setInterval(boxjump,1000)
+
+    function boxjump() {
+     s1();
+     clearInterval(timer)
+    }
+
+   var timer2 = setInterval(boxjump2,5000)
+
+    function boxjump2() {
+        s2();
+        clearInterval(timer2)
+        
+    }
+
+    var timer3 = setInterval(boxjump3,9000)
+
+    function boxjump3() {
+      s3();
+      clearInterval(timer3)
+    }
+
+    var timer4 = setInterval(boxjump4,14000)
+
+    function boxjump4() {
+      s4();
+      clearInterval(timer4)
+    }
+
+</script>

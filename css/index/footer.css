@@ -1,0 +1,337 @@
+.content-footer {
+    /* 内容区底部 */
+    width: 1440px;
+    height: 442px;
+    border-radius: 8px;
+    background: url(../../img/index/chat-bc.png) no-repeat;
+    margin-top: 100px;
+    position: absolute;
+    z-index: 10;
+}
+
+.chat-us-title>p {
+    /* 联系我们的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 3px;
+    color: #ffffff;
+    width: 132px;
+    height: 29px;
+}
+
+.chat-us-intro>p {
+    /* 联系我们的简介的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.group input[type="text "] {
+    width: 310px;
+    height: 48px;
+    background-color: #48b782;
+    border-radius: 8px;
+    float: left;
+    margin-left: 40px;
+    border: none;
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 2px;
+    color: #aae6c9;
+    padding-left: 30px;
+}
+
+.group2 input[type="submit "] {
+    /* 点击提交 */
+    width: 100px;
+    height: 48px;
+    background-color: #eef9f4;
+    box-shadow: -1px -1px 9px 1px rgba(45, 129, 89, 0.25);
+    border-radius: 24px;
+    border: none;
+    text-align: center;
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #48b782;
+}
+
+.chat-us-title {
+    /* 联系我们的框的样式 */
+    width: 132px;
+    padding-left: 657px;
+    padding-top: 80px;
+}
+
+.chat-us-line {
+    /* 联系我们下划线的样式 */
+    padding-left: 710px;
+    margin-top: -1px;
+}
+
+.chat-us-intro {
+    /* 联系我们的内容简介样式 */
+    margin-top: 2px;
+    padding-left: 529px;
+    margin-bottom: 40px;
+}
+
+.inhead {
+    /* 提交表单样式 */
+    padding-left: 80px;
+}
+
+.inhead-line {
+    /* 包裹三个input的框的样式 */
+    width: 1334px;
+    height: 48px;
+}
+
+.group2 {
+    /* 提交按钮的框s的样式 */
+    padding-left: 590px;
+    margin-top: 60px;
+}
+
+.footer {
+    /* 底部 */
+    width: 100%;
+    height: 70px;
+    background-color: #273748;
+    margin-top: -296px;
+}
+
+.footerbox {
+    /* 底部包裹文字的框 */
+    width: 554px;
+    height: 17px;
+    padding-top: 17px;
+    position: absolute;
+    margin-left: -278px;
+    left: 50%;
+    right: 50%;
+}
+
+.footerbox>P {
+    /* 底部文字的样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 0px;
+    color: #eef9f4;
+    text-align: center;
+}
+
+.footerbox>p>a {
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 0px;
+    color: #eef9f4;
+}
+
+.footerbox>p>a:hover {
+    text-decoration: none;
+    color: rgb(243, 189, 51);
+}
+
+.qq-txt>a {
+    display: block;
+    width: 53px;
+    height: 50px;
+}
+
+.qq-txt>a {
+    display: block;
+    width: 55px;
+    height: 50px;
+}
+
+.btn-txt>a:hover,
+.btn-txt>a:focus {
+    text-decoration: none;
+}
+
+.qq-txt>a:hover,
+.qq-txt>a:focus {
+    text-decoration: none;
+}
+
+.phone-txt>a:hover,
+.phone-txt>a:focus {
+    text-decoration: none;
+}
+
+.slidebar .btn {
+    /* 在线咨询的按钮 */
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+
+.btn-txt>a>p {
+    /* 在线咨询的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 24px;
+    letter-spacing: 0px;
+    color: #ffffff;
+}
+
+.btn-txt {
+    /* 在线咨询的框 */
+    width: 80px;
+    height: 24px;
+    background-color: #45c387;
+    border-radius: 4px;
+    border: solid 1px #45c387;
+    top: 79px;
+    position: absolute;
+    left: 10px;
+    text-align: center;
+}
+
+.qq-txt>a>p {
+    /* qq咨询的文字样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.qq-txt {
+    /* 包裹qq咨询的框 */
+    width: 53px;
+    height: 50px;
+    margin-left: 13px;
+}
+
+.slidebar>ul {
+    /*右侧在线咨询的下拉列表 */
+    width: 80px;
+    max-height: 200px;
+    background-color: #48b782;
+    box-shadow: -1px -1px 10px 0px rgba(0, 0, 0, 0.11);
+    border-radius: 0px;
+    margin-top: 25px;
+    margin-top: 43px;
+    margin-left: 10px;
+}
+
+.slidebar>ul>li {
+    height: 80px;
+}
+
+.phone-txt {
+    /* 包裹电话咨询的框 */
+    width: 60px;
+    height: 32px;
+    margin-left: 10px;
+}
+
+.phone-txt>a>p {
+    /* 电话咨询的字体样式 */
+    font-family: MicrosoftYaHei;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 40px;
+    letter-spacing: 1px;
+    color: #fff;
+}
+
+.qq>a {
+    margin-left: 30px;
+    background: url(../../img/index/qq.png) no-repeat;
+}
+
+.qq>a {
+    display: block;
+    width: 20px;
+    height: 22px;
+}
+
+.qq:hover>.qq-txt>a>p {
+    color: #f3bd33;
+}
+
+.btn-txt>a:hover>p {
+    color: #f3bd33;
+}
+
+.phone:hover>.phone-txt>a>p {
+    color: #f3bd33;
+}
+
+.phone>a {
+    display: block;
+    width: 24px;
+    height: 24px;
+    margin-left: 30px;
+    background: url(../../img/index/phone-icon.png) no-repeat;
+}
+
+.phone>a:hover {
+    background: url(../../img/index/yellow-phone.png) no-repeat;
+}
+
+.phone>a>img {
+    margin-left: 28px;
+}
+
+.phone>img {
+    margin-left: 20px;
+    margin-top: -20px;
+}
+
+.back>img {
+    margin-left: 20px;
+    margin-top: -16px;
+}
+
+.back>a>img {
+    margin-left: 30px;
+    margin-top: -20px;
+}
+
+.slidebar {
+    width: 124px;
+    height: 321px;
+    position: fixed;
+    top: 141px;
+    right: 0;
+    z-index: 15;
+}
+
+body {
+    position: relative;
+    background: url(../../img/index/content-bc.png) no-repeat center;
+}
+
+.group2>a {
+    display: block;
+    width: 100px;
+    height: 48px;
+}

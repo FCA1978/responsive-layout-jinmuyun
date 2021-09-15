@@ -1,0 +1,39 @@
+#container {
+    width: 1920px;
+    height: 840px;
+    overflow: hidden;
+    margin: 0;
+    font-family: "微软雅黑";
+}
+
+.hide-menu {
+    /* 当页面缩小的时候，才会出现的menu图标 */
+    display: none;
+}
+
+.hide-menu>.panel {
+    margin-bottom: 20px;
+    background-color: transparent;
+    border: none;
+    border-radius: 0px;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.panel>.panel-heading {
+    padding: 10px 15px;
+    border-bottom: none;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    color: black;
+    background-color: transparent;
+    border-color: #fff;
+    float: right;
+    margin-top: -7px;
+}
+
+.collapse {
+    width: 600px;
+    height: 16px;
+    float: right;
+}

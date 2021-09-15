@@ -1,0 +1,240 @@
+.left-banner {
+    /* 左边的banner的框 */
+    width: 724px;
+    height: 504px;
+    margin-top: 170px;
+    float: left;
+}
+
+.right-banner {
+    /* 右边banner的框 */
+    width: 749px;
+    height: 576px;
+    float: right;
+    margin-top: 66px;
+}
+
+.left-banner-txt1>p {
+    font-family: ArialMT;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: #666666;
+}
+
+.left-banner-txt1 {
+    /* welcome框的样式 */
+    width: 93px;
+    height: 23px;
+}
+
+.left-banner-txt2>p {
+    font-family: SourceHanSansCN-Regular;
+    font-size: 30px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 3px;
+    color: #45c387;
+}
+
+.left-banner-txt2 {
+    width: 132px;
+    height: 29px;
+    margin-top: 23px;
+}
+
+.left-banner-txt3>p {
+    /* 金慕云科技有限公司文字样式 */
+    font-family: SourceHanSansCN-Medium;
+    font-size: 60px;
+    font-weight: 530;
+    font-stretch: normal;
+    line-height: 60px;
+    letter-spacing: 6px;
+    color: #45c387;
+}
+
+.left-banner-txt3 {
+    /* 金慕云科技有限公司的框的样式 */
+    width: 594px;
+    height: 60px;
+    margin-top: 23px;
+}
+
+.left-banner-txt4>p {
+    /* 专业提供网页设计...等的字体样式 */
+    font-family: SourceHanSansCN-Regular;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: #666666;
+}
+
+.left-banner-txt4 {
+    /* 包裹专业提供网页设计...的框的样式 */
+    width: 638px;
+    height: 26px;
+    margin-top: 21px;
+}
+
+.left-banner-txt5>p {
+    /* 网站建设... 的字体样式 */
+    font-family: SourceHanSansCN-Regular;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 36px;
+    letter-spacing: 2px;
+    color: #888888;
+}
+
+.left-banner-txt5 {
+    /* 网站建设..等的框的样式 */
+    width: 448px;
+    height: 30px;
+    margin-top: 72px;
+}
+
+.left-banner-txt6>p {
+    /* 维护运营..等的字体样式 */
+    font-family: SourceHanSansCN-Regular;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 36px;
+    letter-spacing: 2px;
+    color: #888888;
+}
+
+.left-banner-txt6 {
+    /* 维护运营的框的样式 */
+    width: 359px;
+    height: 29px;
+    margin-top: 3px;
+}
+
+.more-txt>p {
+    /* more字体样式 */
+    width: 46px;
+    height: 22px;
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #45c387;
+}
+
+.more {
+    /* more的框的样式 */
+    width: 160px;
+    height: 50px;
+    border-radius: 8px;
+    border: solid 1px #45c387;
+    margin-top: 88px;
+}
+
+.banner {
+    /* banner框的样式 */
+    height: 819px;
+    width: 1600px;
+    margin-left: 239px;
+    position: absolute;
+    top: 120px;
+}
+
+.right-title>p {
+    /* 申报类网站的字体样式 */
+    font-family: SourceHanSansCN-Medium;
+    font-size: 36px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 36px;
+    letter-spacing: 0px;
+    color: #fffffe;
+}
+
+.right-content>P {
+    /* 申报网站内容下的文字内容 */
+    font-family: MicrosoftYaHei;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 36px;
+    letter-spacing: 0px;
+    color: #daf8fe;
+}
+
+.right-content {
+    /* 申报类网站分为... 的框的样式 */
+    margin-top: 13px;
+}
+
+.more-txt {
+    /* more的左侧文字 */
+    float: left;
+    margin-left: 38px;
+    margin-top: 10px;
+}
+
+.more-pic {
+    /* more的右侧箭头 */
+    float: left;
+    margin-top: 21px;
+    margin-left: 14px;
+    width: 26px;
+    height: 26px;
+    background: url(../../img/index/arrow.png) no-repeat;
+}
+
+.hd {
+    /* 列表按钮 */
+    width: 720px;
+    height: 110px;
+    background-color: #edf8f3;
+    float: right;
+    left: 739px;
+    top: 830px;
+    position: absolute;
+    z-index: 3;
+}
+
+.hd>ul>li>a {
+    /* 列表按钮的字体 */
+    font-family: DINPro-Regular;
+    font-size: 24px;
+    font-weight: normal;
+    font-stretch: normal;
+    line-height: 30px;
+    letter-spacing: 0px;
+    color: #6db687;
+    text-decoration: none;
+    display: block;
+    width: 80px;
+    height: 30px;
+}
+
+.hd>ul>li>a:hover {
+    /* 列表按钮鼠标移入时的字体 */
+    color: #fff;
+    text-decoration: none;
+}
+
+.hd>ul>li {
+    /* 更换banner轮播图的按钮 */
+    float: left;
+    margin-right: 55px;
+    margin-top: 42px;
+}
+
+.hd>ul {
+    /* 更换banner轮播图的按钮的列表 */
+    float: right;
+    overflow: hidden;
+}

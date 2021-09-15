@@ -1,0 +1,71 @@
+<html lang="zh">
+
+<head>
+
+    <!-- head头 -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>卡片轮播</title>
+    <link rel="stylesheet" href="./slide/css/swiper.min.css">
+    <link rel="stylesheet" href="./slide/css/pcbanner3.css">
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <div class="swiper-container swiper-container-horizontal">
+        <div class="swiper-wrapper" style="transform: translate3d(-3350px, 0px, 0px); transition-duration: 0ms;">
+            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="margin-right: 20px;">
+                <a href="#"><img src="./img/index/know-pic.png"></a>
+            </div>
+            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" style="margin-right: 20px;">
+                <a href="#"><img src="./img/index/know-pic.png"></a>
+            </div>
+            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="margin-right: 20px;">
+                <a href="#"><img src="./img/index/know-pic.png"></a>
+            </div>
+            <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="margin-right: 20px;">
+                <a href="#"><img src="./img/index/know-pic.png"></a>
+            </div>
+            <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="margin-right: 20px;">
+                <a href="#"><img src="./img/index/know-pic.png"></a>
+            </div>
+            <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="margin-right: 20px;">
+                <a href="#"><img src="./img/index/know-pic.png"></a>
+            </div>
+            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="margin-right: 20px;">
+                <a href="#"><img src="./img/index/know-pic.png"></a>
+            </div>
+            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" style="margin-right: 20px;">
+                <a href="#"><img src="./img/index/know-pic.png"></a>
+            </div>
+            <div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="margin-right: 20px;">
+                <a href="#"><img src="./img/index/know-pic.png"></a>
+            </div>
+        </div>
+
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
+    </div>
+
+    <div class="swiper-pagination swiper-pagination-bullets"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span></div>
+
+    <script src="./slide/js/swiper.min.js"></script>
+    <script>
+        var swiper = new Swiper('.swiper-container', {
+            autoplay: 3000,
+            loop: true,
+            loopedSlides: 3,
+            spaceBetween: 20,
+            centeredSlides: true,
+            slidesPerView: 'auto',
+            pagination: '.swiper-pagination',
+            nextButton: '.swiper-button-next',
+            prevButton: '.swiper-button-prev',
+        });
+    </script>
+
+</body>
+
+</html>
